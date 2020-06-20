@@ -1,5 +1,5 @@
-### The ways of the world
-# Created by Cameron Hill
+# The ways of the world
+### Created by Cameron Hill
 
 There just happens to be a particular way we like to write about the world...
 Sometimes, we feel joy and peace and beauty and love and life.
