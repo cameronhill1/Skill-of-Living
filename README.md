@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Skill of Living
 
 You can use the [editor on GitHub](https://github.com/cameronhill1/skillofliving/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
