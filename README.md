@@ -1,9 +1,8 @@
 ## Skill of Living
 
-[Link 1](https://google.com){:target="_blank"}  |  [Link 2](https://google.com){:target="_blank"}  |  [Link 3](https://google.com){:target="_blank"}  |  [Link 4](https://google.com){:target="_blank"}  |  [Link 5](https://google.com){:target="_blank"}  |  
+[Start here](https://skillofliving.com/){:target="_blank"}  |  [tl;dr](https://skillofliving.com/tldr){:target="_blank"}  |  [Open, Now](https://skillofliving.com/now){:target="_blank"}  |  [Favourites](https://skillofliving.com/recs){:target="_blank"}  |  [Other musings](https://skillofliving.com/other){:target="_blank"}  |  
 
 ### What is this?
-
 
 
 
