@@ -1,5 +1,5 @@
 ## Other musings
 
-Ideas and explorations that seem worthwhile, but that don't fit into the program.
+Ideas that seemed worth exploring, but that don't fit into the "core" series of articles.
 
-[This will be the first one, but right now it takes you to the homepage](https://skillofliving.com){:target="_blank"}
+[Back to the start](https://skillofliving.com){:target="_blank"}
