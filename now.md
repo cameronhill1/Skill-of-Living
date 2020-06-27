@@ -19,7 +19,7 @@ Circles, then rest.
 I've just finished Grace and Grit (A Love Story) by Ken Wilber, and it comes with my highest recommendations. I will be including it in the /recs section of this site (as soon as I make it, that is).
 I won't go into too much detail here and now, except to say that it quite possibly the most inspiring and moving story I've read... and it's non-fiction.
 It's the story of Ken (one of my favourite authors anyway, check out his other work, it'll change your life), his wife Treya, and her (their) 5-year battle with cancer.
-I teared up many times throughout the book, openly cried at many parts, and sobbed pretty violently for a lot of the last chapter or two. Such beauty. Such love. Such courage.
+I teared up many times throughout the book, openly cried at a few parts, and sobbed pretty violently for a lot of the last chapter or two. Such beauty. Such love. Such courage.
 
 I think reading this book over the past couple weeks has influenced me in "just starting" with this site, and openly sharing things, raw and real.
 I already "knew" intellectually I wanted to do it that way, but I was "moved" more, emotionally, through seeing her example.
