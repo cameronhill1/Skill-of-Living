@@ -9,44 +9,27 @@ Just because something is written here, it does not mean that it is true or valu
 ## 27th June 2020
 
 Who? Open, Now.
-
 Love until it hurts.
 
-
 As I write this, all is quiet.
-
 The cat scratches its ears, licks its own fur.
-
 There's a fly dancing near me, just chilling.
-
 Circles, then rest.
 
-
 I've just finished Grace and Grit (A Love Story) by Ken Wilber, and it comes with my highest recommendations. I will be including it in the /recs section of this site (as soon as I make it, that is).
-
 I won't go into too much detail here and now, except to say that it quite possibly the most inspiring and moving story I've read... and it's non-fiction.
-
 It's the story of Ken (one of my favourite authors anyway, check out his other work, it'll change your life), his wife Treya, and her (their) 5-year battle with cancer.
-
 I teared up many times throughout the book, openly cried at a few parts, and sobbed pretty violently for a lot of the last chapter or two. Such beauty. Such love. Such courage.
 
-
 I think reading this book over the past couple weeks has influenced me in "just starting" with this site, and openly sharing things, raw and real.
-
 I already "knew", intellectually, that I wanted to do it this way, but I was "moved" more, emotionally, through seeing her example.
-
 This is already proving to be quite healing for me, and I hope, at some point, somewhat helpful to you.
 
-
 Called to practice more deeply, both "formally", and MOST importantly, moment to moment. When it's hardest.
-
 Can you (and I) dive deeply into life, with all its joy and pain and suffering... And do so with equanimity? With a smile?
 
-
 I want to sing.
-
 I want to serve.
-
 And I want to do it with you, my dear.
 
 
