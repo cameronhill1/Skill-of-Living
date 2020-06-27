@@ -22,14 +22,16 @@ It's the story of Ken (one of my favourite authors anyway, check out his other w
 I teared up many times throughout the book, openly cried at a few parts, and sobbed pretty violently for a lot of the last chapter or two. Such beauty. Such love. Such courage.
 
 I think reading this book over the past couple weeks has influenced me in "just starting" with this site, and openly sharing things, raw and real.
-I already "knew" intellectually I wanted to do it that way, but I was "moved" more, emotionally, through seeing her example.
+I already "knew", intellectually, that I wanted to do it this way, but I was "moved" more, emotionally, through seeing her example.
 This is already proving to be quite healing for me, and I hope, at some point, somewhat helpful to you.
 
 Called to practice more deeply, both "formally", and MOST importantly, moment to moment. When it's hardest.
-Can you (and I) dive deeply into life, with all its joy and pain and suffering... And do so with equanimity?
+Can you (and I) dive deeply into life, with all its joy and pain and suffering... And do so with equanimity? With a smile?
 
 I want to sing.
+
 I want to serve.
+
 And I want to do it with you, my dear.
 
 
