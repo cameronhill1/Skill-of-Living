@@ -6,6 +6,38 @@ Kinda like a public journal, here you'll find: what's on my heart and mind, idea
 Just because something is written here, it does not mean that it is true or valuable, or even that I believe it to be so. It's purely to share what's going on with me right now, in case you're wondering. I find it gives meaning to my struggles, and multiplicity to my celebrations.
 ```
 
+## 2.30AM 30th June 2020
+
+Just finished a 4-hour shift of writing on the main site. Woo! :D Couple insights that contributed to this I think...
+
+First, the end of [this 3-min article](https://markmanson.net/liberation-not-knowing){:target="_blank"} from Mark Manson hit me pretty hard - I could relate a lot. Even if I don't see myself as a writer, I have developed a bit of a prospective ego around the ideas, having fanciful visions of the impact it might have, the praise I might get, etc. This puts loads of pressure on it, and makes it extremely difficult to actually **do** anything. I realized, although I've been very much aware of this seemingly mutually exclusive trade-off between talking it and living it, I have indeed formed an ego (talking/thinking) as a way to simulate the rewards of the results without the risk (or the actual results).
+
+And we all do this to some extent. We all have our ways that we get some of the kick without any immediately obvious downside. It's our "productive procrastination." The other "insight" was relating all this to a friend I walked with this evening, who has found himself playing lots of creative-engineering based games in lockdown, rather than pursue a career in said creative-engineering - a long-time passion of his...
+
+But there IS a downside, and the downside is insidious. It's that you think you're making progress, and maybe you are in some ways, but you're not in other ways - and unfortunately, perhaps those other ways are more important.
+
+It seems as though I've got pretty good at this productive procrastination / rationalization. Here's the key: You deliberately fill your schedule and make it extremely elaborate and detailed. Every minute of the day is planned for. And it's all with seemingly very important stuff. You don't really know what you'd remove if you had to remove something. Then, the key is to maintain a general level of confusion (even if you know deep down) around what it is you want to be working on, and to do things that you say are important for XYZ, and arguably are... but they're not XYZ. AND, for bonus points, continually travel around, change time zones, and regularly lay in bed for several hours without getting to sleep - these are perfect reasons for falling out of your schedule, at which point the only natural response is to complete everything but the "one thing", or things leading up to that. If you do it, it's hard to get some deep, focused work in on it.
+
+The thing is, it's hard JUST DOING the thing you love, the thing you care about a lot, the thing you feel called to do (right now). Because you're putting yourself out there. You have an idea of what you want to do, and who you want to be, and you're afraid you won't live up to that.
+
+(It's Steven Pressfield's Resistance. But man, I thought I didn't have it, but I do. I'm just a master at convincing myself that I'm not resisting it, when I am somewhat.)
+
+But it's only by NOT living up to it, for a long time, that we can actually live up to it. It's only by taking loads of action, in the present, with feedback, that we actually get better. Directness (actually doing the thing you want to get good at) is a big key for skill acquisition (Ultralearning is a good book on this).
+
+Anyways. I also realized that, if I'm going to form an ego (which I am somewhat - we transcend and include the ego, rather than repress it), I should form an ego around having no ego. I've long thought of this as the "story to no story", or "meaning of no meaning" paradox. And I've been aware of this fix as well (ego of [results](https://medium.com/@graham.duncan/the-playing-field-dfb9a1473f43){:target=_blank}).
+
+But this became a little more real, to the point I could feel it challenging my identity and calling me to take actions I wouldn't normally take, with the sentence:
+
+"Letting go of the idea of it, talking/thinking about it... Not the "smart" guy, but the action/results/process/learning/Quality-through-doing-Now-with-feedback guy.
+Not the “smart” guy, but the action/results/process/learning/Quality-through-doing-Now-with-feedback guy.
+
+"**I'm the Quality-through-doing-Now-with-feedback guy**, (not the smart guy)."
+
+All my life, I've felt like I've had to be the smart guy, had to be right. I always got validation and approval through good grades, test scores, quality thinking, etc. But that's not necessarily the way. It's useful to a point, but like Peter Thiel says, “Brilliant thinking is rare, but courage is in even shorter supply than genius.”
+
+The only thing I might add to this - the best way (maybe the only way) to solve all this is to just do it. Over and over. With presence, Quality, enjoyment. Start, keep going, finish well.
+
+
 ## 27th June 2020
 
 Who? Open, Now.
