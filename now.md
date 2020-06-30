@@ -24,12 +24,11 @@ The thing is, it's hard JUST DOING the thing you love, the thing you care about 
 
 But it's only by NOT living up to it, for a long time, that we can actually live up to it. It's only by taking loads of action, in the present, with feedback, that we actually get better. Directness (actually doing the thing you want to get good at) is a big key for skill acquisition (Ultralearning is a good book on this).
 
-Anyways. I also realized that, if I'm going to form an ego (which I am somewhat - we transcend and include the ego, rather than repress it), I should form an ego around having no ego. I've long thought of this as the "story to no story", or "meaning of no meaning" paradox. And I've been aware of this fix as well (ego of [results](https://medium.com/@graham.duncan/the-playing-field-dfb9a1473f43){:target=_blank}).
+Anyways. I also realized that, if I'm going to form an ego (which I am somewhat - we transcend and include the ego, rather than repress it), I should form an ego around having no ego. I've long thought of this as the "story to no story", or "meaning of no meaning" paradox. And I've been aware of this fix as well (ego of [results](https://medium.com/@graham.duncan/the-playing-field-dfb9a1473f43){:target="_blank"}).
 
 But this became a little more real, to the point I could feel it challenging my identity and calling me to take actions I wouldn't normally take, with the sentence:
 
 "Letting go of the idea of it, talking/thinking about it... Not the "smart" guy, but the action/results/process/learning/Quality-through-doing-Now-with-feedback guy.
-Not the “smart” guy, but the action/results/process/learning/Quality-through-doing-Now-with-feedback guy.
 
 "**I'm the Quality-through-doing-Now-with-feedback guy**, (not the smart guy)."
 
