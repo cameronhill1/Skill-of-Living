@@ -8,7 +8,7 @@ Also, it's not just about reading a "good book" in my experience, but also about
 
 So, I'm also giving little descriptions of why each book is here, so you can get a better sense for what you might want to check out next (if anything).
 
-There's also a list of my favourite documentaries, animes, films, etc. At the bottom too. That's less about being useful and more about being beautiful - though the line between the two is blurry throughout this page. I hope you find this to be true, as well.
+There's also a list of my favourite documentaries, animes, films, etc. At the bottom too. That's less about being Useful and more about being Beautiful / Fun - though the line between the two is quite blurry throughout this page. I hope you find this to be true, as well.
 
 
 
@@ -32,7 +32,9 @@ There's also a list of my favourite documentaries, animes, films, etc. At the bo
 
 - The Body Keeps the Score, Van der Kolk - 
 
-They'll^ give you a pretty good head start on most everything in life, I'd imagine... They kinda feed into everything else, from health to relationships to work and business... That being said, here are some additional recs...
+- Flow, Csikszentmihalyi - Or perhaps something by Steven Kotler. "Flow" is the book that represent the original research on Flow state psychology and launched a movement, and Kotler is at the forefront of exploring that movement 2-3 decades later. Stealing Fire is supposed to be a good one, though I have not read it - I thoroughly enjoyed his free e-book on his site though. Very practical, very deep, I'd highly recommend (that's where I got the "flow cycle" from, and later saw how it was quite important).
+
+They'll give you a pretty good head start on most everything in life, I'd imagine... They kinda feed into everything else, from health to relationships to work and business... That being said, here are some additional recs...
 
 
 ### Human nature, life
@@ -41,15 +43,25 @@ They'll^ give you a pretty good head start on most everything in life, I'd imagi
 
 - Man's Search for Meaning, Frankl - 
 
-- Iron John, Bly - 
+- Psychology of Human Misjudgement, Munger - [here's a video link to the speech](https://www.youtube.com/watch?v=pqzcCfUglws){:target="_blank"}
 
-- Psychology of Human Misjudgement, Munger - [here's a video link to the speech](https://www.youtube.com/watch?v=pqzcCfUglws){:target=_blank}
+- The Evolving Self?, Kegan - 
 
-- Blog of Mark Manson?
+- Why Information Grows?, Hidalgo - 
+
+- Gödel, Escher, Bach?, Hofstadter - 
+
+- The Subtle Art of Not Giving A Fuck, Manson - Also check out his blog (MM.net I believe). One of my favourite writers, has a knack for cutting through the noise and delivering clean signal - this book is a great one for reassessing your priorities in life and loosening up a little - and is a very fun listen on audiobook.
 
 - Integral Psychology?, Wilber
 
 - Thinking, Fast and Slow, Kahneman - 
+
+- Iron John, Bly - 
+
+- The Obstacle is the Way?, Holiday - I have only been through summaries of this (as I was already pretty familiar with Stoic philosophy), but apparently this is a great introduction, and I've seen nothing to suggest otherwise. The title alone is incredibly powerful. Another great one on Stoic philosophy - Meditations by Marcus Aurelius. That's a beautiful one.
+
+- The Impersonal Life, Benner - Let me warn you that this one is not for everyone. Originally published in 1914, this is an intensely "spiritual" book... It's pretty short, and it's written in a strange style, but it is essentially one constant pointer to who you are... and who you're not.
 
 - See some of the fiction recommendations too for this section...
 
@@ -85,6 +97,8 @@ They'll^ give you a pretty good head start on most everything in life, I'd imagi
 - Good to Great, Collins - 
 
 - Principles, Dalio - 
+
+- Outliers, Thorndike - 
 
 - 7 Habits of Highly Effective People, Covey - 
 
@@ -138,19 +152,15 @@ They'll^ give you a pretty good head start on most everything in life, I'd imagi
 
 ### Other books
 
-- The Impersonal Life, Benner - This is an intensely spiritual book... 
+...
 
-- The Obstacle is the Way?, Holiday - 
 
-- The Subtle Art of Not Giving A Fuck, Manson - 
 
-- Flow, Csikszentmihalyi - 
 
-- The Evolving Self?, Kegan - 
 
-- Why Information Grows?, Hidalgo - 
 
-- Gödel, Escher, Bach?, Hofstadter - 
+
+
 
 
 ### Other misc. resources
@@ -166,7 +176,7 @@ They'll^ give you a pretty good head start on most everything in life, I'd imagi
 
 - Documentaries / Series: Human (YT series), Trip of Compassion, Jiro Dreams of Sushi, The Dawn Wall, Free Solo, Rick and Morty (hehe), Avatar: The Last Airbender, The Defiant Ones, Quincy, Rolling Thunder Revue, I Am Not Your Guru, George Harrison: Living in The Material World
 
-- Films: It's a Wonderful Life, Schindler's List, Saving Private Ryan, 50 Shades, Kung Fu Panda, Lion King, LOTR, The Last Samurai, Gandhi, Braveheart, Titanic, Zorba the Greek, Pay It Forward, Into The Wild, Forrest Gump, Star Wars, Her, Green Book, Shawshank Redemption, Bohemian Rhapsody, The Green Mile, The Light Between Oceans, The Best of Me, The Theory of Everything
+- Films: It's a Wonderful Life, Schindler's List, Saving Private Ryan, 50 Shades, Kung Fu Panda, Lion King, LOTR, The Last Samurai, Gandhi, Braveheart, Titanic, Zorba the Greek, Pay It Forward, Into The Wild, Forrest Gump, Star Wars, Her, Green Book, Shawshank Redemption, Bohemian Rhapsody, The Green Mile, The Light Between Oceans, The Best of Me, Theory of Everything
 
 - Anime: Classic Gibhli films, Your Name (Kimi No Na Wa), Weathering With You (Tenki No Ko), Your Lie in April (Watashi No Uso), A Silent Voice (Koe No Katachi), Lost Song (Rosuto Songu), Wolf Children (Ōkami Kodomo no Ame to Yuki), OG Pokémon
 
