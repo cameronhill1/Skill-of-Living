@@ -1,6 +1,7 @@
 ## Skill of Living
 ### A few ideas on life and what to do with it
 
+
 [Start here](https://skillofliving.com/)  |  [tl;dr](https://skillofliving.com/tldr){:target="_blank"}  |  [Open, Now](https://skillofliving.com/now){:target="_blank"}  |  [Favourites](https://skillofliving.com/recs){:target="_blank"}  |  [Other musings](https://skillofliving.com/other){:target="_blank"}  |  
 
 ### Start here
@@ -19,23 +20,25 @@ And then we take that goo and put it in our bellies and make sounds that refer t
 
 And we never question any of it.
 
-Meanwhile, we're a bunch of (slightly) more evolved chimps (we call ourselves Homo Sapiens, or "Wise Man in Latin...)
+Meanwhile, we're a bunch of (slightly) more evolved chimps (we call ourselves Homo Sapiens, or "Wise Man" in Latin)...
 
-Spinning on a round lump of rock (that we call Earth)
+Spinning on a round lump of rock (that we call Earth)...
 
 in a black expanse of mostly-nothingness (that we refer to as "space").
 
 Most of us never really question THAT, either.
 
-And yet we hold fast to our opinions on everything from our religion and our political stance to our diet and our philosophical perspectives.
+And yet we hold fast to our opinions on everything from our religion, our politics, and our morality, to our diet, our fashion, and even our football teams.
 
 But do we even know what we're doing here?
 
 It's easy to get caught up and lost in the day to day monotonies of life in our society today... and never really ask the big questions, never really question the way things are.
 
-- Is it good to question it? Why not go with the flow? Could be fine, except if we're honest with ourselves we sense that something's there that wants to be looked at, but then we turn away... Not talking about these articles, but about thoughts you have - quickly shove them out of your mind... I'll think about it later... But before you know it, you're either having a mid-life crisis and you're regretting the lost time (best time to start is now, not too late, longevity escape velocity, and finish well - we remember it how we finish, the ending gives it the meaning), or you're on your deathbed (and then it may be a bit late, although you can still make some changes / accept some things and finish well). Regret minimization.
+- Is it good to question it? What if we're right? Why not go with the flow? Could be fine, except if we're honest with ourselves we sense that something's there that wants to be looked at, but then we turn away... Not talking about these articles, but about thoughts you have - quickly shove them out of your mind... I'll think about it later... But before you know it, you're either having a mid-life crisis and you're regretting the lost time (best time to start is now, not too late, longevity escape velocity, and finish well - we remember it how we finish, the ending gives it the meaning), or you're on your deathbed (and then it may be a bit late, although you can still make some changes / accept some things and finish well). Regret minimization. Rigidity as downfall, lack of adaptability.
 
-And I don't think that it's an absolute thing either. I think we all ask these questions to __some__ extent, and shy away from them to some extent. It's just a question of, how much of each, and what influences us to lead towards one or the other. If we understand that, we can begin to tip the scales towards a more courageous and healthy curiosity.
+And I don't think that it's an absolute thing either. I think we all ask these questions to _some_ extent, and shy away from them to some extent. It's just a question of how much of each, and what influences us to lean more towards one or the other. If we understand that, we can begin to tip the scales towards a more beneficial balance - one that is  biased towards a healthy and courageous curiosity (and therefore, also one that supports us on our journey together into the unknown... more on that shortly :d)
+
+(^ Although, also appropriate at times to stop questioning and act... perhaps - / Ultimately, they disappear into each other. We act with such presence that it's apparently with the utmost certainty, and yet we're continually and automatically re-evaluating the situation, completely open and ready to do a 180 at any moment).
 
 I think, when I look at my own tendency to shy away from these big questions, from questioning beliefs I've held for a long time...
 
@@ -46,7 +49,7 @@ First - Too tired, can't think straight, stressed with other concerns and challe
 Second - Afraid of imagined negative consequences of questioning a belief we've held onto for a while -> 
 Eg. Christianity / belief in God when I was 11 or so. I remember thinking about questioning it by looking at the evidence for and against, and feeling afraid - of angering God if He was real, of separating myself from my mum's religion and beliefs, of being wrong / sunk cost fallacy, of not knowing (bias of needing certainty to act)... and I remember realizing - if it's true, I have nothing to fear, because I'll question it and I'll come back to the truth. If it's not true, then I've just saved myself a lot of pain and delusion and heartache. (after that, atheist for a bit, then agnostic). Not saying Christianity is not true, I personally think there's a LOT of good in Christianity, as well as in most other religions too. The events in the texts could also have literally happened, although I think it's a little more doubtful, but ultimately I don't know, I wasn't there.
 
-And in fact, I'd suggest that they're somewhat related. If we break fear down<sup>1</sup>, we can see that it's not only the anticipation that "X bad thing will happen", but also that __we won't be able to handle it.__ 
+And in fact, I'd suggest that they're somewhat related. If we break fear down<sup>1</sup>, we can see that it's not only the anticipation that "X bad thing will happen", but also that _we won't be able to handle it._ 
 
 Health, and not buying into the shame...  -> know that you can, don't buy into it, it's just actions, habits, skills, it can all be learned, the body is renewed completely each year, the mind can transform radically, the soul? You are not defective... You are beautiful as you are, and you are capable of so much... I truly believe that, believe in you, the potential of humans... 
 
