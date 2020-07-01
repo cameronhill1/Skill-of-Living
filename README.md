@@ -20,21 +20,28 @@ And then we take that goo and put it in our bellies and make sounds that refer t
 
 And we never question any of it.
 
-Meanwhile, we're a bunch of (slightly) more evolved chimps (we call ourselves Homo Sapiens, or "Wise Man" in Latin)...
+Meanwhile, we're a bunch of (slightly) more evolved "chimps" (we call ourselves Homo Sapiens, or "Wise Man" in Latin)...
 
 Spinning on a round lump of rock (that we call Earth)...
 
-in a black expanse of mostly-nothingness (that we refer to as "space").
+in a black expanse<sup>0</sup> of mostly-nothingness (that we refer to as "space").
 
-Most of us never really question THAT, either.
+Most of us never really question THAT, either. In fact, we tend not to question things much at all. (At least, considering how weird they are).
 
-And yet we hold fast to our opinions on everything from our religion, our politics, and our morality, to our diet, our fashion, and even our football teams.
+And when we _do_ ask questions, they tend to relate to playing the game better (eg. "How can I get X to like me?", and "How can I make more money?"), rather than questioning the game itself (let alone the player).
 
-But do we even know what we're doing here?
+Instead, we tend to move through life, most of the time, with rigid certainty, holding fast to our opinions on everything from our religion, our politics, and our morality, to our diet, our fashion, and our sense of self.
 
-It's easy to get caught up and lost in the day to day monotonies of life in our society today... and never really ask the big questions, never really question the way things are.
+But how can we be so certain about these topics, when we don't even know what we're doing here?<sup>0.5</sup>
 
-- Is it good to question it? What if we're right? Why not go with the flow? Could be fine, except if we're honest with ourselves we sense that something's there that wants to be looked at, but then we turn away... Not talking about these articles, but about thoughts you have - quickly shove them out of your mind... I'll think about it later... But before you know it, you're either having a mid-life crisis and you're regretting the lost time (best time to start is now, not too late, longevity escape velocity, and finish well - we remember it how we finish, the ending gives it the meaning), or you're on your deathbed (and then it may be a bit late, although you can still make some changes / accept some things and finish well). Regret minimization. Rigidity as downfall, lack of adaptability. And A = A, just because you don't look at it, doesn't mean it's not real.
+It's easy to get caught up and lost in the day to day monotonies of our life in society... and never really ask the big questions, never really question the way things are.
+
+So that's the purpose of this site... To embrace the beautiful mystery of not knowing as a foundation, to rebuild from there with some (hopefully) independent thinking to find what's most important, and to experiment (together) in finding the best ways to live in alignment with that thinking.
+
+I'm not sure on the format that this will take - I have ideas, and some kind of a plan, but we'll see how it unfolds and changes over time. Don't worry though, it'll be obvious at each step of journey as to what's happening next.<sup>0.75</sup>
+
+
+- Is it good to question it? Is it important to know what's important? What if we're right? Why not go with the flow? Could be fine, except if we're honest with ourselves we sense that something's there that wants to be looked at, but then we turn away... Not talking about these articles, but about thoughts you have - quickly shove them out of your mind... I'll think about it later... But before you know it, you're either having a mid-life crisis and you're regretting the lost time (best time to start is now, not too late, longevity escape velocity, and finish well - we remember it how we finish, the ending gives it the meaning), or you're on your deathbed (5 regrets of the dying, zoom out and make sure you're looking at the right things) (and then it may be a bit late, although you can still make some changes / accept some things and finish well). Regret minimization. Rigidity as downfall, lack of adaptability. And A = A, just because you don't look at it, doesn't mean it's not real.
 
 And I don't think that it's an absolute thing either. I think we all ask these questions to _some_ extent, and shy away from them to some extent. It's just a question of how much of each, and what influences us to lean more towards one or the other. If we understand that, we can begin to tip the scales towards a more beneficial balance - one that is  biased towards a healthy and courageous curiosity (and therefore, also one that supports us on our journey together into the unknown... more on that shortly :d)
 
@@ -44,7 +51,7 @@ When I look at my own tendency to shy away from these big questions, from questi
 *
 First - Too tired, can't think straight, stressed with other concerns and challenges that are perhaps a little more urgent, even a belief that you can't think for yourself because you're dumb -> A feeling of being physically and/or mentally unable to slice through the tough stuff
 
-Second - Afraid of imagined negative consequences of questioning a belief we've held onto for a while -> 
+Second - The fear of not knowing, being uncertain, not being in control, Afraid of imagined negative consequences of questioning a belief we've held onto for a while -> 
 Eg. Christianity / belief in God when I was 11 or so. I remember thinking about questioning it by looking at the evidence for and against, and feeling afraid - of angering God if He was real, of separating myself from my mum's religion and beliefs, of being wrong / sunk cost fallacy, of not knowing (bias of needing certainty to act)... and I remember realizing - if it's true, I have nothing to fear, because I'll question it and I'll come back to the truth. If it's not true, then I've just saved myself a lot of pain and delusion and heartache. (after that, atheist for a bit, then agnostic). Not saying Christianity is not true, I personally think there's a LOT of good in Christianity, as well as in most other religions too. The events in the texts could also have literally happened, although I think it's a little less likely, but ultimately I don't know, I wasn't there.
 
 And in fact, I'd suggest that they're somewhat related. If we break fear down<sup>1</sup>, we can see that it's not only the anticipation that "X bad thing will happen", but _also_ that _we won't be able to handle it._ 
@@ -104,6 +111,12 @@ Now let's run through them, look at them as a whole, and try to make some sense 
 
 
 Footnotes
+
+0 - By volume, the Earth is supposedly 5.539108e+82 times smaller than the known universe. And for most of us, most of our daily concerns are not even worldcentric, but "egocentric", and maybe "social-circle-centric". [This video](https://www.youtube.com/watch?v=Iy7NzjCmUf0){:target="_blank"} is pretty cool and puts things in perspective.
+
+0.5 - Sure, there's the big bang, or maybe this is a virtual reality, or maybe a God created it... But where could _these_ things have come from in the first place? If you really let yourself ponder this, you can have some pretty deep realizations (or perhaps, un-realizations), and a sense of deep wonder can arise.
+
+0.75 - note to self, possibly include a brief overview / current outline here too
 
 1 - "Feel The Fear and Do It Anyway" by Susan Jeffers explores this breakdown a bit more deeply.
 
