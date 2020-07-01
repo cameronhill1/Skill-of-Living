@@ -40,21 +40,25 @@ It's easy to get caught up and lost in the day to day monotonies of our life in 
 
 I'm not sure on the format that this will take - I have ideas, and some kind of a plan, but we'll see how it unfolds and changes over time. Don't worry though, it'll be obvious at each step of the journey as to what's happening next.<sup>0.75</sup>
 
+### Why questions? And what gets in the way...
+
 Before we get into it, there are a couple things that seem useful and fairly important to discuss briefly:
 
-#1 - So far, we've talked a lot about questioning things. But is this even a good thing? Is it important to know what's important, "true"? What if we're 100% right, or even just "mostly" right about everything already - wouldn't that be a relative waste of our time and attention? Wouldn't our efforts be better spent elsewhere - like on taking action and on living in alignment with our answers?
+#1 - So far, we've talked a lot about questioning things. But is this even a good thing? Why not just go with the flow? Is it important to know what's important, "true"? What if we're 100% right, or even just "mostly" right about everything already - wouldn't that be a relative waste of our time and attention? Wouldn't our efforts be better spent elsewhere - like on taking action and on living in alignment with our answers?
 
 (Circular, as these are questions)
 
-+ I could say that of course, otherwise we're ignorant... But ultimately, I don't know - I don't think you can know until you start thinking about what's important / true, and even then, you're probably on shaky, circular ground. So perhaps it's not important. Perhaps it is. Either way, at least for me personally (and I'm guessing that, if you've read this far, you're probably similar), I seem to have a tendency for curiosity, to ask questions and learn and discover my blindspots, to try and make sense of things and find meaning. I can partly ignore or suppress this "drive", but that doesn't make it go away... it's still there. It seems that most humans share this drive to some extent. 
+  + (best time to start is now, not too late, longevity escape velocity, and finish well - we remember it how we finish, the ending gives it the meaning) deathbed (and then it may be a bit late, although you can still make some changes / accept some things and finish well).
+
++ I could say that of course, otherwise we're ignorant... But ultimately, I don't know - I don't think you can know until you start thinking about what's important / true, and even then, you're probably on shaky, circular ground. So perhaps it's not important. Perhaps it is. Either way, at least for me personally (and I'm guessing that, if you've read this far, you're probably similar), I seem to have a tendency for curiosity, to observe and ask questions and learn and discover my blindspots, to try and make sense of things and find meaning. I can partly ignore or suppress this "drive", but that doesn't make it go away<sup>0.775</sup>... it's still there. It seems that most humans share this drive to some extent. 
 
 I also think (and I'll discuss this more later), that this may ultimately be a necessary-but-temporary stepping stone to be "transcended-and-included", that perhaps there is no "meaning of life" in the way we tend to think of it, and that there is a lot of benefit to be had in just "letting go" and just "being", even in the midst of our doing.
 
 Which partly answers the last couple questions above, too... Let me be clear that, although the emphasis so far has been on asking more questions, I think answers, and acting on those answers are at least as important (see the bolded "purpose of this site" above). Rather than a continuous questioning (where nothing ever gets done), or continuous action (where the more "important" things rarely get done), I'd suggest an intuitive<sup>0.8</sup> balance between the two is most useful - quality action, periodically interspersed with questioning and re-evaluating our direction; moving forwards, and course correcting.
 
-Again, ultimately, I think we can approach a kind of synthesis of the two - where the boundary between question, answer, and action, between uncertainty, certainty, and expression, becomes so fluid and immediate that it seems to blur and fade altogether. However, I think that it's a process, and we probably don't start there. We start with asking questions, coming up with some answers, and testing those answers with action.
+Again, ultimately, I think we can approach a kind of synthesis of the two - where the boundary between question, answer, and action, between uncertainty, certainty, and expression, becomes so fluid and immediate that it seems to blur and fade altogether - where we act with such "presence" that it's completely without doubt, and yet simultaneously there's an unconscious, continuous uptake and processing of data to re-evaluate the situation, all while remaining completely open and ready to do a 180 at any moment<sup>0.85</sup>. I think, however, that it's a process, and we probably don't start there. We start by asking questions, coming up with some answers, and testing those answers with action.
 
-Finally, I'll add that the reason I'm emphasizing questions initially is because it seems to be relatively lacking today. We have lots of answers, and lots of action, but much less uncertainty and question-asking. We too often turn away from that intuitive sense of unease that wants us to examine it and put ourselves on the "right" path again. If we play this out on an individual level over the course of years, or even decades, we find that we've lived a life that hasn't been true to ourselves and has been relatively devoid of "meaning" - at which point we're consumed by a mid-life crisis, or worse, deathbed regrets<sup>0.9</sup>. If we play this out on a collective level over the course of a generation or two, we find ourselves with too much power and intelligence, and not enough wisdom to guide it. So I think it's fairly important.
+Finally, I'll add that the reason I'm emphasizing questions initially is because it seems to be relatively lacking today. We have lots of answers, and lots of action, but much less uncertainty and question-asking. We too often turn away from that intuitive sense of unease that wants us to examine it and put ourselves on the "right" path again. If we play this out on an individual level over the course of years, or even decades, we find that we've lived a life that hasn't been true to ourselves and has been relatively devoid of "meaning" - at which point we're consumed by a mid-life crisis, or worse, deathbed regrets<sup>0.9</sup>. If we play this out on a collective level over the course of a generation or two, we find ourselves with too much power and intelligence, and not enough wisdom or adaptability to guide it. So I think it's fairly important.
 
 So this leads me to the second topic worth discussing at this point...
 
@@ -63,18 +67,10 @@ So this leads me to the second topic worth discussing at this point...
 Rather than being an absolute thing, I think it's more of a spectrum or sliding scale, where we all ask these deeper questions _sometimes_, and shy away from them at others. It's just a question, of how much of each, and why? If we understand what causes us to lean towards one or the other, we can begin to tip the scales towards a healthy, courageous curiosity
 
 
-Positive vs negative expected outcome... 
+Positive vs negative expected outcome... positive examples - certainty bias (evolutionary strategy that works for short-term/survival situations), ego of feeling right, rewarded socially for not asking questions... vs. "stop asking questions" from bored parents/teachers, to "you're dumb", to you're actually (temporarily) dumb, to fears of unknown / uncertainty / sunk cost, etc...
 
 
 
-
-
-
-
- Why not go with the flow?  quickly shove them out of your mind... I'll think about it later... But before you know it, you're either having a mid-life crisis and you're regretting the lost time (best time to start is now, not too late, longevity escape velocity, and finish well - we remember it how we finish, the ending gives it the meaning), or you're on your deathbed (5 regrets of the dying, zoom out and make sure you're looking at the right things) (and then it may be a bit late, although you can still make some changes / accept some things and finish well). Regret minimization. Rigidity as downfall, lack of adaptability. And A = A, just because you don't look at it, doesn't mean it's not real.
-
-
- We act with such presence that it's apparently with the utmost certainty, and yet we're continually and automatically re-evaluating the situation, completely open and ready to do a 180 at any moment).
 
 When I look at my own tendency to shy away from these big questions, from questioning beliefs I've held for a long time... I notice a couple of consistent, underlying themes that come up:
 *
@@ -149,9 +145,13 @@ Footnotes
 
 0.5 - Sure, there's the big bang, or maybe this is a virtual reality, or maybe a God created it... But where could _these_ things have come from in the first place? If you really let yourself ponder this, you can have some pretty deep realizations (or perhaps, un-realizations), and a sense of deep wonder can arise.
 
-0.75 - note to self, possibly include a brief overview / current outline here too (and remove menu at the top, apart from Tl;dr, and put it at the end of the series, perhaps)
+0.75 - *note to self*, possibly include a brief overview / current outline here too (and remove menu at the top, apart from Tl;dr, and put it at the end of the series, perhaps)
+
+0.775 - Ayn Rand wrote her 1200-page magnum opus "Atlas Shrugged" essentially on this idea that A = A, and exploring the implications of accepting and affirming that, and rejecting that - i.e. unconsciously believing that A = B. It's funny how such a small change like that can lead to such drastically different actions and outcomes - very much like when Rick collapses the galactic empire by hacking their database and changing "1 = 1" to "1 = 0" in Rick and Morty, season 3, LOL
 
 0.8 - For me, the intuitive sense here literally feels like a "going the wrong way", "wasting effort" kinda vibe. And I feel a kind of subtle "knowing" that I'd benefit from pausing (despite the inertia), taking a step back (or 10), and remaining open long enough to find a better path.
+
+0.85 - The state / process I've just described almost exactly maps onto what peak performance psychologists call "Flow" - the state in which we feel and perform at our best. Probably a fair bit more to come on this... When a 10-year McKinsey study states that top business executives reported being five times more productive in [flow](https://www.entrepreneur.com/article/243047){:target="_blank"} ... With the way I've described it above, it's a little easier to see how this isn't an exaggeration - it's the way to solve the most important problems the fastest. Focusing on the right problems, with faster feedback, and more quality action... and it all multiplies and compounds from there.
 
 0.9 - Regrets of the dying, #1
 
@@ -161,9 +161,18 @@ Footnotes
 
 
 
+
+
 ****
 
 
 In 2, with the paradoxes, can mention how we pointed before to the essential nature of dealing with them - both, a spectrum, transcend and include, both true, one is more... 
+
+
+
+Core idea of having evolutionary programming that helps us in short-term/survival situations, but as we expand our perspective (like from I to We / Opportunistic to Socialised, so too from we to all / life, etc.), our adaptability comes down to our ability to identify the best ways to rewrite our own code/programming and to quickly do it. Eg. avoidance to stillness (with some grey area too), and from I/We to All/Life... 
+Whether it's through methods we explore that our now available, or possibilities in the future like biotech and HI... 
+
+
 
 
