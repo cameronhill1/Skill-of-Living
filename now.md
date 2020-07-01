@@ -6,6 +6,24 @@ Kinda like a public journal, here you'll find: what's on my heart and mind, idea
 Just because something is written here, it does not mean that it is true or valuable, or even that I believe it to be so. It's purely to share what's going on with me right now, in case you're wondering. I find it gives meaning to my struggles, and multiplicity to my celebrations.
 ```
 
+## 5AM July 1st 2020
+
+Just finishing up a 5-hour shift.
+
+Was very tired following yesterday's all-nighter (went to sleep at 7.30am, woke around 12.30pm), and was planning to just do a shorter one (1-2 hours), but when I got to 1-2 hours, I was really getting into the flow, and so I just kept going.
+
+Weirdly, I'm enjoying working with no breaks (not even toilet breaks - I deliberately stopped drinking water a couple hours beforehand). Obviously, these behaviours are probably a little unsustainable, but it's fun and seems to be working... i.e, I seem to be working.
+
+Interesting how these behaviours are the complete opposite to what I've been aiming for, as far as a routine goes... And yet produced the very results I was searching for, perhaps without even realizing it. Perhaps this demonstrates the power of "doing the opposite" to break out of unwittingly limiting patterns of behaviour / belief, and of the utility of chaos for focusing the mind.
+
+Although, the flipside of that is that this work has been pretty much completely uninterrupted (by parents, pets, parcels, piss-breaks...), and the joy of this has helped me to be completely cool with shifting my routine around while I'm here, at least for a little while longer during lockdown - even if there are definite downsides. The other routine I've been trying to get into is better on paper, but in a relatively complex and chaotic environment, perhaps it falls short on executability/adherence relative to something like this.
+
+Ideally, I want to work some good sleep back into the schedule too. That's important. I've got a lot of sleep to catch up on atm. My workouts are suffering. My HRV scores (Oura and EW2 feedback training) are suffering.
+
+Alright. I'm happy. Good night. <3 :)
+
+
+
 ## 2.30AM 30th June 2020
 
 Just finished a 4-hour shift of writing on the main site. Woo! :D Couple insights that contributed to this I think...
