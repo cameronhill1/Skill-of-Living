@@ -1,8 +1,11 @@
 ## Skill of Living
 ### A few ideas on life and what to do with it
 
+***
 
 [Start here](https://skillofliving.com/)  |  [tl;dr](https://skillofliving.com/tldr){:target="_blank"}  |  [Open, Now](https://skillofliving.com/now){:target="_blank"}  |  [Favourites](https://skillofliving.com/recs){:target="_blank"}  |  [Other musings](https://skillofliving.com/other){:target="_blank"}  |  
+
+***
 
 ### Start here (work in progress)
 
