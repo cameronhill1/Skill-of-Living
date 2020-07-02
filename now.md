@@ -6,6 +6,21 @@ Kinda like a public journal, here you'll find: what's on my heart and mind, idea
 Just because something is written here, it does not mean that it is true or valuable, or even that I believe it to be so. It's purely to share what's going on with me right now, in case you're wondering. I find it gives meaning to my struggles, and multiplicity to my celebrations.
 ```
 
+## 3.30AM July 2nd 2020
+
+Just a quick entry tonight, following a shorter session - just over 2 hours. Feeling pretty tired, and want to get to bed a bit earlier.
+
+It's amazing how quickly a lack of sleep can you make you pretty stupid - and the increased cortisol seems to ramp up the identification with the ego / the socialized self.
+
+That being said, had some good insights today (or so I think). Playing around with "gratitude" as a powerful cue for pointing to "the sweetspot", and realized that the "expected value" model of working with probabilities works really well when applied to motivational psychology / decision making, being informed by past experiences.
+
+Also, just generally feeling in a really good place at the moment. Enjoying working on this stuff. Other things are ticking along nicely. Really enjoying singing, more than ever. And had a call with my friends at the LA food bank - they just expressed massive gratitude for the work I was doing with them (running ads, we've generated $1.5m for them over the past 4 months or so). One of them was "in the field", volunteering at the drive-thru care package handouts. They shared some other exciting news too, which I won't repeat here...
+
+This was all very gratifying, and I kinda went quiet and just said thank you as my heart warmed. It's absolutely a team effort, and I can't take too much credit for the ads performance anyways - we're really riding an unfortunately incredible wave here - but it is really nice to connect the numbers with the people we're actually helping. $1.5m is in the region of 5-10m meals - and with 20% unemployment rate in LA right now, people who have never needed food before are driving up in nice cars and receiving much-needed assistance. So I'm feeling quite inspired right now.
+
+BUT loving others starts with loving yourself, and so I'm off to bed. Good night. <3
+
+
 ## 5AM July 1st 2020
 
 Just finishing up a 5-hour shift.
