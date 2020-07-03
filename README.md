@@ -192,5 +192,6 @@ Core idea of having evolutionary programming that helps us in short-term/surviva
 Whether it's through methods we explore that our now available, or possibilities in the future like biotech and HI... 
 
 
-
+***
+© ch mmxx
 
