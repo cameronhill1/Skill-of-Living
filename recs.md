@@ -2,13 +2,13 @@
 
 Here's a list of books, films, and other resources that have been particularly important for me, or that I think might be particularly important for you.
 
-Even if I don't agree with everything in all of them (and in some cases I haven't even read the full book), I've tried to select resources that I feel, together, constitute some of my current views and philosophy. As always, this will most likely change, and I will probably update this list as time goes on.
+Even if I don't agree with everything in all of them (and in some cases I haven't even read the full book), I've tried to select resources that I feel, together, constitute some of my current views and philosophy. As always, this will most likely change, and so I will probably update this list as time goes on.
 
-Also, it's not just about reading a "good book" in my experience, but also about reading the right good book at the right time. Some books you pick up and can't get through the first chapter, and you read it 12 months later and it changes your life. And then you may recommend that book to a friend, and it may be old news for them.
+Also, in my experience, it's not just about reading a "good book", but also about reading the _right_ good book at the _right_ time. Some books you pick up and you can't get through the first chapter, but then you read it 12 months later and it changes your life. And then you may recommend that book to a friend, and it may be old news for them.
 
-So, I'm also giving little descriptions of why each book is here, so you can get a better sense for what you might want to check out next (if anything).
+So, I'm also giving little descriptions of why each book is here, what the general idea is, so you can get a better sense for what you might want to check out next (if anything).
 
-There's also a list of my favourite documentaries, animes, films, etc. At the bottom too. That's less about being Useful and more about being Beautiful / Fun - though the line between the two is quite blurry throughout this page. I hope you find this to be true, as well.
+There's also a list of my favourite documentaries, films, series, anime, etc. at the bottom too. That's less about being Useful and more about being Beautiful / Fun :) - though I've found the line between the two to be quite blurry all throughout this page. I hope you find this to be true for you, as well. Happy living!
 
 
 
@@ -140,7 +140,7 @@ So these books will give you a pretty good head start on most everything in life
 
 - **Culture Code, Coyle** - 
 
-- **The Essential Drucker, Drucker** - 
+- **The Essential Drucker** - 
 
 
 
