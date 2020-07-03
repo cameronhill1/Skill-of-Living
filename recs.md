@@ -14,165 +14,184 @@ There's also a list of my favourite documentaries, animes, films, etc. At the bo
 
 ### Mindset/Learning (Happiness & Effectiveness)
 
-- The Art of Learning, Waitzkin - 
+- **The Art of Learning, Waitzkin** - If I could give you one book, I think it might be this one. Josh is what I would call a "serial master" - he has reached the highest levels of multiple completely unrelated pursuits (chess, t'ai chi push hands, brazillian jiu jitsu, and now standup paddle surfing), and focuses a fair amount on what he terms "thematic interconnectedness" - that beyond the unique technical elements of our individual disciplines and skills lies "the essence" of learning - and this learning transfers easily. At it's core, I think this "essence" is our depth of Presence / our sense of Quality, and our ability to maintain that in all kinds of situations and tensions.
 
-- The Talent Code + Little Book of Talent, Coyle - 
+- **The Talent Code + Little Book of Talent, Coyle** - The Talent Code is Daniel Coyle's first book I believe, and is profound. There are many books exploring mastery and learning, but I really like the way Coyle laid it out here, with some important and novel insights. I enjoy the focus on the mechanism of myelin that underlies learning, and how this supports a growth mindset. Helps you to get a better sense for your potential (and it's almost limitless potential). The Little Book of Talent is a short collection of 52 suggestions for applying these insights practically. Both are great.
 
-- Tao Te Ching, Lao Tzu - 
+- **Tao Te Ching, Lao Tzu** - The translation is important, with Stephen Mitchell's being my personal favourite, and Gia-Fu Feng and Jane English's being more accurate (apparently)... Although I said my "If I could give you one book" was Josh Waitzkin's The Art of Learning, that was only because I think it's much more accessible for most people than the Tao Te Ching. I went through a (long) stage of reading something from this Tao Te Ching every day, simply because I wanted to keep only to the best inputs, and I could find nothing that could compare. It's essentially a collection of 81 short poems, or verses. You could read the whole thing comfortably in 20 minutes, though that doesn't do it justice... You could just as well spend a month, or a year, reading just a single verse. Each line seems to fill the heart with a lightness that seems hard to access elsewhere. Anyways, I'd highly recommend. You can download a Tao Te Ching app for free on the app store, with the translations I've recommended and a couple others too. Enjoy.
 
-- The War of Art + The Artist's Journey, Pressfield - 
+- **The War of Art + The Artist's Journey, Pressfield** - Both books are short, with pretty simple core concepts that explore from many different angles, so that you come away feeling very inspired and much more likely to start applying them in your life. The War of Art looks at our "Daemon", our Resistance to it, and how to reframe and overcome this Resistance. It's a really important book if you want to ever get anything of value done, I think. The Artist's Journey, although it covers Resistance, looks more at Art's place in our creative and spiritual lives. Among other things, he maps Joseph Campbell's work on the hero's journey onto that of an artists, both on the macro level, and on the micro level, giving a practical walkthrough of what it looks like to make Good art.
 
-- Power of Now + A New Earth, Tolle - 
+- **Power of Now + A New Earth, Tolle** - Although I think A New Earth is better, I think the Power of Now is a better introduction to "presence" and living with more conscious awareness. Both are classics that have changed millions of lives. If you think you're getting a bit stuck in "doing" and need to learn to chill out more into just "being", these are worth checking out.
 
-- Letting Go, Hawkins - 
+- **Awareness?, De Mello** - I've had this highly recommended several times, and is next in my "to listen to" pile. It seems to be very similar to the above two.
 
-- Integral Meditation, Wilber - (inc. a note about how all of his stuff is great)
+- **Letting Go, Hawkins** - This was also a strong contender for "If I could just give you one book"... I talk (ha) a lot about "living it" as opposed to "talking about it". This book might help you make that transition more. Ironically, it explains the "letting go technique" itself so briefly that I (and most others I've recommended it to) missed it on the first time through. The rest of the book is essentially artfully aligning your intentions with applying it. I'm not sure on the "be all and end all" nature he seems to hint at with this technique - but as a part of an integrated solution, I think it's extremely powerful (and applying it lies at the core of much of my own development in recent years, I believe).
 
-- Release the Brakes, Newman - 
+- **Integral Meditation, Wilber** - Speaking of an "integrated solution", who better to bring up next than the father of Integral theory himself, Ken Wilber. I love this man - he is an extremely deep soul, and I think that his contributions over the past 40-50 years are perhaps some of the most important we've had (at least from what I've seen). I'd invite you to check out his other stuff as well, but Integral Meditation is a lovely primer on some of the most important elements of the Integral movement, explored both theoretically and practically, with reference to life's most important areas.
 
-- The Body Keeps the Score, Van der Kolk - 
+- **Release the Brakes, Newman** - This is a wonderful, classic "mindset" book. Jim Newman takes us from theory to practice as he explores the human operating system, its  primary limitations, and the limitless potential that arises when we release ourselves from those limitations. A book that flew under the majority of the "self-helpers'" radars, I believe.
 
-- Flow, Csikszentmihalyi - Or perhaps something by Steven Kotler. "Flow" is the book that represent the original research on Flow state psychology and launched a movement, and Kotler is at the forefront of exploring that movement 2-3 decades later. Stealing Fire is supposed to be a good one, though I have not read it - I thoroughly enjoyed his free e-book on his site though. Very practical, very deep, I'd highly recommend (that's where I got the "flow cycle" from, and later saw how it was quite important).
+- **The Body Keeps the Score, Van der Kolk** - A wonderful companion to the last few books, neuroscientist Van der Kolk rounds up his experience from 3-4 decades of being the leading edge of trauma research. In other words, he provides a scientific basis to much of what has been discussed in the above books. After dispelling the myth that trauma work is only for sufferers of intense, acute trauma, he goes on to explore the mechanisms of trauma and more importantly, our adaptation to it (in children and adults), and finishes with some practical suggestions for treatment.
+
+- **How To Change Your Mind, Pollan** - Incidentally, one of the best strategies emerging for healing trauma, both acute and chronic, seems to be psychedelic-assisted therapy. The reason why we're so resistant to change, and why PTSD sufferers are so resistant to treatment, is rigidity. The painful feelings of helplessness that we've repressed and buried deep down are usually blocked by years and often decades of learned defensive mechanisms, leading to a rigid calcification.
+
+- **Flow, Csikszentmihalyi** - Or perhaps something by Steven Kotler. "Flow" is the book that represent the original research on Flow state psychology and launched a movement, and Kotler is at the forefront of exploring that movement 2-3 decades later. Stealing Fire is supposed to be a good one, though I have not read it - I thoroughly enjoyed his free e-book on his site though. Very practical, very deep, I'd highly recommend (that's where I got the "flow cycle" from, and later saw how it was quite important).
+
+
+
+- **The New Toughness Training For Sports, Loehr** - Read this one when I was 16 or so. Really helped to drill in the importance of "flicking the switch" on and off with intensity, rather than drift somewhere in between. And the harder you switch it on, the harder you can switch it off... And vice versa.
+
+- **Wherever You Go, There You Are, Kabat-Zinn** - 
 
 They'll give you a pretty good head start on most everything in life, I'd imagine... They kinda feed into everything else, from health to relationships to work and business... That being said, here are some additional recs...
 
 
 ### Human nature, life
 
-- Laws of Human Nature, Greene - 
+- **Laws of Human Nature, Greene** - 
 
-- Man's Search for Meaning, Frankl - 
+- **Man's Search for Meaning, Frankl** - 
 
-- Psychology of Human Misjudgement, Munger - [here's a video link to the speech](https://www.youtube.com/watch?v=pqzcCfUglws){:target="_blank"}
+- **The Perennial Philosophy, Huxley** - 
 
-- The Evolving Self?, Kegan - 
+- **On The Shortness of Life, Seneca** - Life is long if you know what to do with it.
 
-- Why Information Grows?, Hidalgo - 
+- **Psychology of Human Misjudgement, Munger** - [here's a video link to the speech](https://www.youtube.com/watch?v=pqzcCfUglws){:target="_blank"}
 
-- Gödel, Escher, Bach?, Hofstadter - 
+- **The Evolving Self?, Kegan** - 
 
-- The Subtle Art of Not Giving A Fuck, Manson - Also check out his blog (MM.net I believe). One of my favourite writers, has a knack for cutting through the noise and delivering clean signal - this book is a great one for reassessing your priorities in life and loosening up a little - and is a very fun listen on audiobook.
+- **The 6 Pillars of Self-Esteem, Branden** - 
 
-- Integral Psychology?, Wilber
+- **The Vital Question, Lane** - 
 
-- Thinking, Fast and Slow, Kahneman - 
+- **Why Information Grows?, Hidalgo** - 
 
-- Iron John, Bly - 
+- **Gödel, Escher, Bach?, Hofstadter** - 
 
-- The Obstacle is the Way?, Holiday - I have only been through summaries of this (as I was already pretty familiar with Stoic philosophy), but apparently this is a great introduction, and I've seen nothing to suggest otherwise. The title alone is incredibly powerful. Another great one on Stoic philosophy - Meditations by Marcus Aurelius. That's a beautiful one.
+- **The User Illusion, Nørretranders** - 
 
-- The Impersonal Life, Benner - Let me warn you that this one is not for everyone. Originally published in 1914, this is an intensely "spiritual" book... It's pretty short, and it's written in a strange style, but it is essentially one constant pointer to who you are... and who you're not.
+- **The Subtle Art of Not Giving A Fuck, Manson** - Also check out his blog (MM.net I believe). One of my favourite writers, has a knack for cutting through the noise and delivering clean signal - this book is a great one for reassessing your priorities in life and loosening up a little - and is a very fun listen on audiobook.
+
+- **Integral Psychology?, Wilber** - 
+
+- **Thinking, Fast and Slow, Kahneman** - 
+
+- **Iron John, Bly** - 
+
+- **King, Warrior, Magician, Lover, Gillette and Moore** - 
+
+- **The Obstacle is the Way?, Holiday** - I have only been through summaries of this (as I was already pretty familiar with Stoic philosophy), but apparently this is a great introduction, and I've seen nothing to suggest otherwise. The title alone is incredibly powerful. Another great one on Stoic philosophy - Meditations by Marcus Aurelius. That's a beautiful one.
+
+- **The Impersonal Life, Benner** - Let me warn you that this one is not for everyone. Originally published in 1914, this is an intensely "spiritual" book... It's pretty short, and it's written in a strange style, but it is essentially one constant pointer to who you are... and who you're not.
 
 - See some of the fiction recommendations too for this section...
 
 
 ### Health
 
-- The Immunity Code, Joel Greene - 
+- **The Immunity Code, Joel Greene** - 
 
-- How To Eat, Move, and Be Healthy, Chek - 
+- **How To Eat, Move, and Be Healthy, Chek** - 
 
-- Boundless, Greenfield - 
+- **Boundless, Greenfield** - 
 
-- Why We Sleep, Walker - 
+- **Why We Sleep, Walker** - 
 
 
 ### Relationships
 
-- Way of the Superior Man, Deida - 
+- **Way of the Superior Man, Deida** - 
 
-- How to Win Friends & Influence People, Carnegie? - 
+- **How to Win Friends & Influence People, Carnegie?** - 
 
-- 5 Love Languages?, Chapman - 
+- **5 Love Languages?, Chapman** - 
 
-- Crucial Conversations?, Switzler / Grenny / McMillan - 
+- **Crucial Conversations?, Switzler / Grenny / McMillan** - 
 
-- War & Peace / Anna Karenina?, Tolstoy - 
+- **War & Peace / Anna Karenina?, Tolstoy** - 
 
-- Grace & Grit, Wilber - 
+- **Grace & Grit, Wilber** - 
+
+- **Mating in Captivity?, Perel** - 
 
 
 ### Business
 
-- Good to Great, Collins - 
+- **Good to Great, Collins** - 
 
-- Principles, Dalio - 
+- **Principles, Dalio** - 
 
-- Outliers, Thorndike - 
+- **Outsiders, Thorndike** - 
 
-- 7 Habits of Highly Effective People, Covey - 
+- **7 Habits of Highly Effective People, Covey** - 
 
-- The Personal MBA?, Kaufman - 
+- **The Personal MBA?, Kaufman** - 
 
-- The Power of Vulnerability? / Work of Brené Brown - 
+- **The Power of Vulnerability? / Work of Brené Brown** - 
 
-- This is Marketing, Godin -
+- **This is Marketing, Godin** -
 
-- Pitch Anything, Klaff - 
+- **Pitch Anything, Klaff** - 
 
-- The Future is Faster Than You Think / Bold, Diamandis & Kotler - 
+- **The Future is Faster Than You Think / Bold, Diamandis & Kotler** - 
 
-- Tools of Titans / Podcast, Ferriss
+- **Tools of Titans / Podcast, Ferriss** - 
 
-- Blog of Paul Graham
+- **Blog of Paul Graham** - 
 
-- Culture Code, Coyle - 
+- **Culture Code, Coyle** - 
 
-- The Essential Drucker, Drucker - 
+- **The Essential Drucker, Drucker** - 
 
 
 
 ### Fiction / Biographical
 
-- Zen and the Art of Motorcycle Maintenance, Pirsig - 
+- **Zen and the Art of Motorcycle Maintenance, Pirsig** - 
 
+- **Shantaram, Roberts** - 
 
-- Shantaram, Roberts - 
+- **Atlas Shrugged, Rand** - 
 
-- Atlas Shrugged, Rand - 
+- **The Alchemist, Coelho** - 
 
-- The Alchemist, Coelho - 
+- **The Hustler, Tevis** - 
 
-- The Hustler, Tevis - 
+- **The Old Man and the Sea, Hemingway** - 
 
-- The Old Man and the Sea, Hemingway - 
+- **On The Road, Kerouac** - If you want a kick up the ass to kick out society's silly ways and carve your own path of beauty and adventure (though I wouldn't necessarily recommend as much booze as they use on their path, lol)
 
-- Grace and Grit, Wilber - Also included above in relationships
+- **Stranger in a Strange Land, Heinlein** - 
 
-- On The Road, Kerouac - If you want a kick up the ass to kick out society's silly ways and carve your own path of beauty and adventure (though I wouldn't necessarily recommend as much booze as they use on their path, lol)
+- **Ocean at the End of the Lane, Gaiman** - 
 
-- Stranger in a Strange Land, Heinlein - 
+- **Kon Tiki, Heyerdahl** - 
 
-- Shoe Dog?, Knight - 
+- **Just Kids, Patti Smith** - 
 
-- Kon Tiki, Heyerdahl - 
+- **Endurance, Lansing** - 
+
+- **Shoe Dog?, Knight** - 
 ...
-
-
-
-### Other books
-
-...
-
-
-
-
-
-
-
 
 
 
 ### Other misc. resources
 
+- Foundation Training (app) - their membership site is possibly the best $15/month you'll ever spend. Profound for improving posture, healing yourself from back pain, and steadily repatterning trauma. A great way to start the morning. They have a 14-week periodized introductory course, put together by the master himself, Dr. Eric Goodman.
 
 - Udemy, Coursera, EdX, Masterclass and other online course sites - learn anything you want, online!
 
+- Farnam Street - A wonderful blog on cultivating wisdom and critical thinking
+
 - JP's Hero's Journey, audio course on SoundsTrue?
 
-- Abundance Digital - Peter Diamandis' online community of entrepreneurs
+- Abundance Digital - Peter Diamandis' online program/community for entrepreneurs
 
 - Tony Robbins, work of
+
+- Ken Wilber, work of
 
 - Documentaries / Series: Human (YT series), Trip of Compassion, Jiro Dreams of Sushi, The Dawn Wall, Free Solo, Rick and Morty (hehe), Avatar: The Last Airbender, The Defiant Ones, Quincy, Rolling Thunder Revue, I Am Not Your Guru, George Harrison: Living in The Material World
 
