@@ -24,7 +24,7 @@ There's also a list of my favourite documentaries, animes, films, etc. At the bo
 
 - **Power of Now + A New Earth, Tolle** - Although I think A New Earth is better, I think the Power of Now is a better introduction to "presence" and living with more conscious awareness. Both are classics that have changed millions of lives. If you think you're getting a bit stuck in "doing" and need to learn to chill out more into just "being", these are worth checking out.
 
-- **Awareness?, De Mello** - I've had this highly recommended several times, and is next in my "to listen to" pile. It seems to be very similar to the above two.
+- **Awareness?, De Mello** - I've had this highly recommended several times, and is next in my "to listen to" pile. It seems to be very similar to Tolle's work.
 
 - **Letting Go, Hawkins** - This was also a strong contender for "If I could just give you one book"... I talk (ha) a lot about "living it" as opposed to "talking about it". This book might help you make that transition more. Ironically, it explains the "letting go technique" itself so briefly that I (and most others I've recommended it to) missed it on the first time through. The rest of the book is essentially artfully aligning your intentions with applying it. I'm not sure on the "be all and end all" nature he seems to hint at with this technique - but as a part of an integrated solution, I think it's extremely powerful (and applying it lies at the core of much of my own development in recent years, I believe).
 
@@ -34,22 +34,18 @@ There's also a list of my favourite documentaries, animes, films, etc. At the bo
 
 - **The Body Keeps the Score, Van der Kolk** - A wonderful companion to the last few books, neuroscientist Van der Kolk rounds up his experience from 3-4 decades of being the leading edge of trauma research. In other words, he provides a scientific basis to much of what has been discussed in the above books. After dispelling the myth that trauma work is only for sufferers of intense, acute trauma, he goes on to explore the mechanisms of trauma and more importantly, our adaptation to it (in children and adults), and finishes with some practical suggestions for treatment.
 
-- **How To Change Your Mind, Pollan** - Incidentally, one of the best strategies emerging for healing trauma, both acute and chronic, seems to be psychedelic-assisted therapy. The reason why we're so resistant to change, and why PTSD sufferers are so resistant to treatment, is rigidity. The painful feelings of helplessness that we've repressed and buried deep down are usually blocked by years and often decades of learned defensive mechanisms, leading to a rigid calcification.
+- **How To Change Your Mind, Pollan** - Incidentally, one of the best strategies emerging for healing trauma, both acute and chronic, seems to be psychedelic-assisted therapy. The reason why we're so resistant to change, and why PTSD sufferers are so resistant to standard treatment, is rigidity. The painful feelings of helplessness that we've repressed and buried deep down are usually defended by years and often decades of learned avoidance mechanisms and physical, muscular "armouring". We become hardened; calcified. In How To Change Your Mind, Michael Pollan shows us the incredible power of psychedelics to bust through this rigidity in record time. If you'd like to watch a powerful documentary on this, check out "Trip of Compassion" in the misc. resources below.
 
-- **Flow, Csikszentmihalyi** - Or perhaps something by Steven Kotler. "Flow" is the book that represent the original research on Flow state psychology and launched a movement, and Kotler is at the forefront of exploring that movement 2-3 decades later. Stealing Fire is supposed to be a good one, though I have not read it - I thoroughly enjoyed his free e-book on his site though. Very practical, very deep, I'd highly recommend (that's where I got the "flow cycle" from, and later saw how it was quite important).
+- **Flow, Csikszentmihalyi** - ...Or perhaps something by Steven Kotler. "Flow" is the book that presents the original research on flow state psychology and launched a movement, and Kotler is at the forefront of that movement 2-3 decades later. Stealing Fire is supposed to be a good one, though I have not read it - I thoroughly enjoyed his free e-book on his site though! Very practical, very deep, and I can highly recommend (that's where I first saw the "flow cycle", and later started making connections and seeing how its 4 stages were quite fundamental to many aspects of the human experience).
 
+- **The New Toughness Training For Sports, Loehr** - I read this one when I was 16 or so, when looking for anything that could give me an edge in rugby. Really helped to drill in the importance of "flicking the switch" on and off with intensity, rather than drift somewhere in between. And the harder you switch it on, the harder you can switch it off... AND vice versa - the harder you switch off, the more you can switch it on when it's showtime.
 
-
-- **The New Toughness Training For Sports, Loehr** - Read this one when I was 16 or so. Really helped to drill in the importance of "flicking the switch" on and off with intensity, rather than drift somewhere in between. And the harder you switch it on, the harder you can switch it off... And vice versa.
-
-- **Wherever You Go, There You Are, Kabat-Zinn** - 
-
-They'll give you a pretty good head start on most everything in life, I'd imagine... They kinda feed into everything else, from health to relationships to work and business... That being said, here are some additional recs...
+So these books will give you a pretty good head start on most everything in life, I'd imagine... They kinda feed into everything else, from health to relationships to work and business, because they hit the essence... That being said, here are some additional recs...
 
 
 ### Human nature, life
 
-- **Laws of Human Nature, Greene** - 
+- **Laws of Human Nature, Greene** - In my opinion, Robert Greene is such a fantastic writer (and researcher). His work over the past couple decades has all been around human behaviour and human excellence... and this book is the Master's comprehensive guide to the human OS, with all its flaws and leverage points.
 
 - **Man's Search for Meaning, Frankl** - 
 
@@ -179,30 +175,28 @@ They'll give you a pretty good head start on most everything in life, I'd imagin
 
 ### Other misc. resources
 
-- Foundation Training (app) - their membership site is possibly the best $15/month you'll ever spend. Profound for improving posture, healing yourself from back pain, and steadily repatterning trauma. A great way to start the morning. They have a 14-week periodized introductory course, put together by the master himself, Dr. Eric Goodman.
+- **Foundation Training (app)** - their membership site is possibly the best $15/month you'll ever spend. Profound for improving posture, healing yourself from back pain, and steadily repatterning trauma. A great way to start the morning. They have a 14-week periodized introductory course, put together by the master himself, Dr. Eric Goodman.
 
-- Udemy, Coursera, EdX, Masterclass and other online course sites - learn anything you want, online!
+- **Udemy, Coursera, EdX, Masterclass and other online course sites** - learn anything you want, online!
 
-- Farnam Street - A wonderful blog on cultivating wisdom and critical thinking
+- **Farnam Street** - A wonderful blog on cultivating wisdom and critical thinking
 
-- JP's Hero's Journey, audio course on SoundsTrue?
+- **JP's Hero's Journey**, an audio course on SoundsTrue from JP Sears.
 
-- Abundance Digital - Peter Diamandis' online program/community for entrepreneurs
+- **Abundance Digital** - Peter Diamandis' online program/community for exponential entrepreneurs
 
-- Tony Robbins, work of
+- **Tony Robbins, work of**
 
-- Ken Wilber, work of
+- **Documentaries / Series:** Human (YT series), Trip of Compassion, Jiro Dreams of Sushi, The Dawn Wall, Free Solo, Rick and Morty (hehe), Avatar: The Last Airbender, The Defiant Ones, Quincy, Rolling Thunder Revue, I Am Not Your Guru, George Harrison: Living in The Material World
 
-- Documentaries / Series: Human (YT series), Trip of Compassion, Jiro Dreams of Sushi, The Dawn Wall, Free Solo, Rick and Morty (hehe), Avatar: The Last Airbender, The Defiant Ones, Quincy, Rolling Thunder Revue, I Am Not Your Guru, George Harrison: Living in The Material World
+- **Films:** It's a Wonderful Life, Schindler's List, Saving Private Ryan, 50 Shades, Kung Fu Panda, Lion King, LOTR, The Last Samurai, Gandhi, Braveheart, Titanic, Zorba the Greek, Pay It Forward, Into The Wild, Forrest Gump, Star Wars, Her, Green Book, Shawshank Redemption, Bohemian Rhapsody, The Green Mile, The Light Between Oceans, The Best of Me, Theory of Everything
 
-- Films: It's a Wonderful Life, Schindler's List, Saving Private Ryan, 50 Shades, Kung Fu Panda, Lion King, LOTR, The Last Samurai, Gandhi, Braveheart, Titanic, Zorba the Greek, Pay It Forward, Into The Wild, Forrest Gump, Star Wars, Her, Green Book, Shawshank Redemption, Bohemian Rhapsody, The Green Mile, The Light Between Oceans, The Best of Me, Theory of Everything
-
-- Anime: Classic Gibhli films, Your Name (Kimi No Na Wa), Weathering With You (Tenki No Ko), Your Lie in April (Watashi No Uso), A Silent Voice (Koe No Katachi), Lost Song (Rosuto Songu), Wolf Children (Ōkami Kodomo no Ame to Yuki), OG Pokémon
+- **Anime:** Classic Gibhli films, Your Name (Kimi No Na Wa), Weathering With You (Tenki No Ko), Your Lie in April (Watashi No Uso), A Silent Voice (Koe No Katachi), Lost Song (Rosuto Songu), Wolf Children (Ōkami Kodomo no Ame to Yuki), OG Pokémon
 
 
 
 
-
+NB - Add affiliate links where possible, and put a little disclaimer at the top, saying that all proceeds will go to organic food for my belly / supporting the site.
 
 
 
