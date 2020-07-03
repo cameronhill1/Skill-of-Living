@@ -114,6 +114,8 @@ So these books will give you a pretty good head start on most everything in life
 
 ### Business
 
+- **Amazon's letters to shareholders** - 
+
 - **Good to Great, Collins** - 
 
 - **Principles, Dalio** - 
