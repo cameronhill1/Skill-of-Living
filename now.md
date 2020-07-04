@@ -128,11 +128,43 @@ And simultaneously, the awareness that there is suffering, and that I may be abl
 
 Life
 
+(NB, Here I explore some core themes of my life up until this journal entry. As well as my happinesses and successes, I also share my "quality problems". This is not intended as a victim story or a shirking of responsibility, nor am I lamenting even the toughest stuff I've been through - My problems were mild enough that I can see the beauty in them without too much difficulty, and I feel very appreciative to have had such an overall positive upbringing. I'm sharing here for a couple reasons: For fun, for completeness (having a full timeline here), and for connecting around our common humanity. I've enjoyed writing it, so I hope you might be able to enjoy reading it ;) )
+
 J met N at the NEC in Birmingham.
 They got together a couple years later.
 About 4 years later Cameron was born.
-Didn't cry much as a baby, I'm told.
-Growing up, I had the typical beautiful challenges and insecurities most kids have... 
+Didn't cry much as a baby, I hear.
+Growing up, I had the standard "quality problems"<sup>1</sup> and insecurities most kids have, I suppose...
+I was very sure I loved girls a lot. And I also loved lots of girls. I remember one particular time listing off to a friend (or maybe it was my mum) about 11 different girls that I loved. Though I was about 5 or 6, they ranged in ages from 4-11, I believe. Looking back on it now, they didn't even have to be too pretty! Although that was the deciding factor sometimes, the quality I was most drawn to, I think, was kindness. Hmm. Maybe I really did love them all.
+Hehe, anyways, they didn't always love me back, at least not "romantically" (as romantic as love can be between 6-year olds), and if they did, they didn't always share it as openly as I did.
+Ha, for example, I remember with one girl in our class (whose mum was also our teacher)... I walked into the classroom one day and shouted out "Mrs D, I love your daughter!" very loud, so the whole class could hear it. I guess I was proud of my love and couldn't contain it any longer :D I smiled a big grin and turned red as everyone laughed.
+I also remember being a bit younger, maybe 3 or 4, and sleeping over at a (girl) friend's house. We were discussing our somewhat mutual feelings for each other... I said I loved her, and she said he loved me too... but she also thought she loved another boy at her school! I remember feeling a little disappointed and small, imagining this other 4-year old to be tall and cool and confident - the perfect gentleman. Though perhaps he was thinking the same about me... If only I'd known that you could love more than one person at a time, that polyamory was a thing...
+I don't think I ever really questioned my worth or ability... Until I started questioning it :P I'm not sure what led to that, but perhaps it was taking things like that personally, and then comparing myself with others to see "what might be missing". Why would my friends leave me out, or a girl runaway from me (in kiss-chase), unless I wasn't good enough for them, unless I was missing something?
+Don't get me wrong, I had friends, some admirers, I was pretty popular (all the way throughout school)... But this still affected me. And I experienced similar versions of this throughout my childhood, as I got older. In fact, much of my earlier years was formed by reacting to these events and insecurities. And I think this still affects me to this day to some extent - it's a little bit of a chip on my shoulder.
+One example - When I was about 6 or 7, I thought I was fat. I actually had very little fat on me, but had a large belly from undiagnosed digestive problems. So I thought I was fat. I remember turning away from the girls in the classroom while I changed my top for PE, or being afraid to take my T-shirt off on holidays or for swimming. I remember revealing to my 2 (quite lean) best friends that I had a big secret I wanted to tell them, and when I said "I'm fat" and showed them my belly, they just said "yeah we know". It wasn't a big deal to them I guess.
+So when, nudged by my teachers and family friends, my parents began to look at moving me to a private school in Oxford (that offered good bursaries) and asked me what I wanted to do, I was very keen when I found out that: A. My best friend at the time also happened to be applying, and B. They had a "fitness suite". It was only once I arrived at the school that I found out that, ridiculously, they didn't let 8/9 year olds in the gym, and that I'd have to wait until I was 11! I was crushed, and with no girls in sight (single-sex school), I naturally threw myself into studies, chess, and cricket, was chosen as head boy at the end of my first year, and waited excitedly for the time I'd get to start hanging out with girls "in town", when we moved from "junior school" to "senior school".
+All looked good on the surface... 
+
+
+
+(Proudest Dad in the world, now look at you, it's pathetic)...
+
+(Addictions to games, sat on the hill, etc.)
+
+(Rugby saved me... got into it for the "wrong" reasons, and fell in love with it for the "right" reasons...)
+
+
+
+
+
+What does it mean to be a strong man nowadays? The balance of tough and vulnerable, of X and Y, of A and B...
+I'm lucky I had such great role models... John Place, Grant Seeley, Spencer Goggin and the other Sports staff, Eric Thomas & Elliott Hulse
+Each of these men saw something in me that I could not see in myself, and believed in me, supported me, encouraged me. I would not be anywhere close to the man I am proud to be today without any one of these men. And of course, my biological dad too. Although there were things I did not want to emulate (and that's tough, because as the child you see your parents at their worst, remember the bad times more than the good, and hold them to standards of perfection), what I did learn from my dad was a courage to take responsibility for your own results in life, to grab your balls and commit, and to keep fucking going no matter what. To go on after your dreams no matter what. After reading a lot, looking further afield, I think I've found easier paths to get better results... But it was only thanks to his graft, his patience, and his eventual acceptance of my choices, that I've been able to educate myself in these ways. So I am eternally and incredibly grateful to this man, J.
+
+
+
+
+
 
 
 
