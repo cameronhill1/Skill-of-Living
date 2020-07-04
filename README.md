@@ -1,5 +1,5 @@
 ## Skill of Living
-### A few ideas on life and what to do with it
+### A few ideas on life, and what to do with it
 
 ***
 
@@ -8,6 +8,10 @@
 ***
 
 ### Start here (work in progress)
+
+**(North star: Unobstructed, Connected, Organized Self-Expression - for I We All Life)**
+
+*(reading time: depends how fast you are :P)*
 
 Life is kinda weird, don't you think?
 
@@ -41,67 +45,57 @@ It's easy to get caught up and lost in the day to day details and monotonies of 
 
 So that's the purpose of this site... **To embrace the beautiful mystery of _not knowing_ as a foundation, to rebuild from there with some relatively clear (and somewhat crowdsourced) thinking to find what's most important, and to experiment (together) in finding the best ways to live in alignment with that thinking.**
 
-I'm not sure on the format that this will take - I have ideas, and some kind of a plan, but we'll see how it unfolds and changes over time. Don't worry though, it'll be obvious at each step of the journey as to what's happening next.<sup>0.75</sup>
+The particular format that this takes is continually morphing and evolving over time, like its own living being. I have an overall intention, and a few ideas organized into some kind of plan, but we'll see how it unfolds.
 
-### Why questions? And what gets in the way?
+```
+An example of how this is changing: as I continued writing this, the next section was originally called "Why questions? And what gets in the way?"
 
-Before we embark on our journey, there are a couple things that seem useful and fairly important to discuss briefly:
+Its purpose was to make sure we were moving forward without any lingering doubts, by first playing devil's advocate and questioning the value of questions, and then by exploring what tends to get in the way of us questioning things (and otherwise doing things that we sense might be beneficial for us).
 
-#1 - So far, we've talked a lot about questioning things. But is this even a good thing? Why not just "go with the flow"? Is it important to know what's important, "true"? What if we're 100% right, or even just "mostly" right about everything already - wouldn't that be a relative waste of our time and attention? Wouldn't our efforts be better spent elsewhere - like on taking action and on living our answers?
+These kinds of sections, where we're double-checking our thinking and handling common objections, are important in what we're doing here... especially considering we're starting by emphasizing the importance of "not knowing" and the value of questions!
 
-All good questions! Let's take the first couple first... Is questioning things a good thing? Is knowing what's important... important?
+However, that section got pretty thorough, long-winded, and began to disrupt the flow completely. So I've put it all on a separate page, and linked it [here](https://skillofliving.com/1-1){:target="_blank"). I will continue to do that, or put them in the footnotes, where relevant. Then you can check them out at your leisure.
 
-Well, I could say something along the lines of, "Of course, dear fellow! Lest we be ignorant and wander about aimlessly"... But couldn't ignorant ambling be a good thing, too? The point is that, ultimately, I don't know - and I don't think you _can_ know until you start thinking about what's important / true (i.e. asking questions), and even then, you're probably on shaky, circular ground. So perhaps it's not important. Perhaps it is. Either way, at least for me personally (and I'm guessing that, if you've read this far, you're probably similar), I seem to have a tendency for curiosity, to observe and ask questions and learn and discover my blindspots, to try and make sense of things and find meaning. I can partly ignore or suppress this "drive", but that doesn't make it go away<sup>0.775</sup>... it's still there. It seems that most humans share this drive to some extent. 
+Many of the questions you feel arising will be addressed later on, and so you may find that, by simply reading through from start to finish, there is no need for these sections. However, in the event that really just don't get something... they're there (most of the time).
+```
 
-I also think (and I'll discuss this more later), that this drive may ultimately be a necessary-but-temporary stepping stone to be "transcended-and-included", that perhaps there is no "meaning of life" in the way we tend to think of it, and that there is a lot of benefit to be had in "letting go" and just "being" - even in the midst of our doing.
+Okay, but with that being said, what else will it look like? What will we be covering? Am I worth listening to?
 
-And this begins to answer the last couple questions above, too... Let me be clear that, although the emphasis so far has been on asking more questions, I think answers, and acting on those answers, is at least as important (see the bolded "purpose of this site" above). Rather than a continuous questioning (where nothing ever gets done), or continuous action (where the more "important" things rarely get done), I'd suggest an intuitive<sup>0.8</sup> balance between the two is most useful - quality action, periodically interspersed with questioning and re-evaluating our direction; moving forwards, and course correcting.
+I'll be concise. At the moment, it's turning into a simple series of 7 articles, covering both theory and practice.
 
-Again, ultimately, I think we can approach a kind of synthesis of the two - where the boundary between question, answer, and action, between uncertainty, certainty, and expression, becomes so fluid and immediate that it seems to blur and fade altogether - where we act with such "presence" that it's completely without doubt, and yet simultaneously there's an unconscious, continuous uptake and processing of data to re-evaluate the situation - and all while we remain completely open and ready to do a complete 180 at any moment<sup>0.85</sup>. I think, however, that it's a process, and we probably don't start there. We start by asking questions, coming up with some answers, and testing those answers with action.
+1. X
+2. X
+3. X
+4. X
+5. X
+6. X
+7. X
 
-Finally, I'll add that the reason I'm emphasizing questions initially is because it seems to be relatively lacking today. We have lots of answers, and lots of action, but much less uncertainty and question-asking. We too often turn away from that intuitive sense of unease that wants us to examine it and put ourselves on the "right" path again. If we play this out on an individual level over the course of years, or even decades, we find that we've lived a life that hasn't been true to ourselves and has been relatively devoid of "meaning" - at which point we're consumed by a mid-life crisis, or worse, deathbed regrets<sup>0.9</sup>. If we play this out on a collective level over the course of a generation or two, we find ourselves with too much power and intelligence, and not enough wisdom or flexibility to guide it. So I think it's fairly important.
+The idea is that it's 1-a-day, for a week - a "7-day challenge", should you choose to accept it - so we get through the "talk" pretty quickly and get into actually living it.
 
-And this leads me to the second topic I feel is worth discussing at this point...
+As for "am I worth listening to"... I don't know. Here are a couple considerations:
 
-#2 - If it's so important, why do we turn away? Why do we fail to ask the deeper questions? What gets in the way? And how can we remove these obstacles to reignite and fuel our natural question-asking?
+1. These ideas are not "mine". I didn't come up with them. I am not *at all* claiming to be a master of any kind. I'm simply playing the role of researcher, experimenter, and connector - a sort of creative scientist. There may be a few new ways of phrasing things, a few new insights... but for the most part, all I'm offering here are my developing skills in: taking the complex and seemingly disparate into the simple and integrated; challenging assumptions, asking quality questions, and reasoning from first principles; and running high-fidelity experiments with a growing sample-size (myself, my clients and friends, other followers of this site) to test our hypotheses and apply our conclusions as well as we can. In other words, all I can really offer *is my ability to learn and live well.*
 
-Well first, I think that, rather than being an absolute thing (asking questions or not), it's more of a spectrum or sliding scale, where we all ask these deeper questions to _some_ extent, and shy away from them sometimes, too. It's just a question of how much of each, and, most importantly, why? If we understand what causes us to lean towards one or the other and how we can affect these causes, we can begin to tip the scales towards a healthy, courageous curiosity that will support us throughout our lives.
+2. As social beings, we have evolved a bias for taking things at face-value (or "second-hand learning"), rather than thinking for ourselves<sup>1</sup>. Our inclination to believe something in this way is influenced by the *number* of people believing a thing, the *certainty* with which they're saying it, and the relative authority or *status* of those people. Much of our society operates in this way; for example, schools teach our children to *memorize* facts and methods, and teachers often discourage continually asking the "why" question.
 
-To answer this properly, we'd need to dive into why we do _anything_ - i.e. motivational psychology, decision-making, values, etc. I think this stuff is incredibly important, and I look forward to exploring a few models that I've found extremely useful with you soon... 
+This way of operating has been extremely useful, and has arguably been one of the main reasons why we've evolved so rapidly as a species - but it also has weaknesses. On a major scale, it's one explanation for how things like the holocaust happen - blindly following those with conviction in positions of power (and the herd with them). On a smaller scale, I'd suggest that it may be responsible for much of our collective error, ignorance, and accompanying suffering.
 
-But for now, for the sake of flow and brevity, I'm just going to list off the main factors I've noticed in myself (and my friends and clients). The idea here is to try and hold up a mirror for you so you can become aware of any of these sticking points _you_ might have - and with that simple awareness comes the rediscovery of "choice" and the potential for becoming unstuck.
+Anyways, the point is - try to judge the ideas herein, and anywhere else for that matter, for their own quality, rather than any falsely implied quality from their messenger. Even the best of the best in any field are just people, prone to exactly the same biases and mistakes as the rest of us.
 
-These factors fall into two main groups:
+And most importantly, think and test them for yourself. If you find results or evidence that seem to be contrary to anything here, please email me (c@skillofliving.com) and share your findings!
 
-**Positive expected outcome of not questioning things, eg:**
+3. With that caveat out the way, I do think there's value in ensuring you only listen to people who are actually living it and seeing results (rather than armchair professors), so here's a little bio:
 
-- Evolutionary (short-term) benefit of maintaining an air of certainty, confidence, and control - so it's easier for you to act, and easier for others to follow and give you status.
-- The little emotional kick of ego, pride, and *feeling* right (without even necessarily needing to *be* right).
-- Rewarded socially for conforming and not asking questions, for being like everyone else. Able to feel some sense of connection and "safety in the herd".
-- Rewarded socially for playing a particular role (usually unconsciously), and developing a sense of identity around that. For example, playing the victim or weakling as a child, and being rewarded (with sweets, attention, mollycoddling, etc.) for it. This can lead to an unconscious drive to avoid anything that you sense might be good for you (eg. asking questions), and if you're going to "win", you're probably going to make it really hard for yourself.
+- Generally a pretty happy, healthy, "present" guy (most important?) 
+- Things used to come quite difficult for me - now they come relatively easily
+- I've managed to significantly improve every area of my life (eg. health, relationships, finances, sense of meaning + purpose + aliveness + perspective + connection to something large than us)
+- I started young - played chess , rugby, singing ... 
+- I used to have a tendency to get very addicted to things, whether it was video games, ... 
+- Past couple years, ads
+- Currently launching a health consulting company (unrelated to any of this)
+- I used to have questions like "Why does it seem the more I want something, the less likely it is to happen?" "Why does it feel like there's something in the way, something I'm missing?" "Why does it seem to be so effortless and relatively easy for my friends?" I found some answers that helped me a lot, and I don't really ask those questions anymore.
 
-**Negative expected outcome of questioning things, eg:**
-
-- Heard "stop asking questions" from bored parents and/or teachers
-- Heard "you're dumb" or "you're useless", so you gave up thinking for yourself
-- Possibility of actually (temporarily) being dumb or relatively incapable of quality thinking and action, due to poor physiology and your mind being all over the place (eg. really underslept, been eating poorly, filled your mind with cat videos, haven't been meditating, stressed with other, seemingly more urgent, concerns and opportunity).
-- A general fear of the unknown, the uncertainty, and the loss of control that can come with questioning our beliefs and admitting we don't know for sure
-- The fear of the sunk cost - "Damn, I've believed and lived this for so long, look at all that wasted time, look at everything I could have been doing."
-- The fear of other imagined negative consequences - For example, I was raised as a Christian, and when, at age 11, I started to have doubts about my beliefs and the existence of a God, I was resistant to following those trains of thought in case God *did* exist and I went to hell, and for fear of separating myself from and angering my mum.
-
-After looking at all that, it'd be reasonable to think, "Wow, that's a lot... Is it really worth it?"
-
-But if you really look at it, most of these fears and internalized limiting self-attitudes are illusory (you _can_ handle it - don't buy into the shame, you're not defective, you're beautiful and you have so much potential), and these apparent rewards are typically shallow, fleeting, and unfulfilling.
-
-(/Essentially, not until we've met our 4 basic needs, able to move from I to We, socialized... We might feel very insecure as it... Harder... We'll be addressing this stuff if you can push through, but otherwise you might have to go away and do your best with your health/sex and your ego/relationships for a while... You might be ready for this, you might not be. Either way, it's great).
-
-It might help to break fear down a bit<sup>1</sup>. Fear is the anticipation that "X bad thing will happen", and _also_ that _we won't be able to handle it._ But chances are, you probably can handle it. And if you're unsure, perhaps get a support system in place to help you with whatever particular challenge it is you're facing.
-
-And as far as solving for "actually being dumb and incapable" - we can always get better in this regard. Weirdly, a lot of it seems to be just basic physiological health - that is, if you want to dramatically increase your mental processing power, I can recommend getting better sleep, eating clean + staying hydrated, and regular meditation<sup>1.1</sup>. It's amazing how much of a difference a couple simple fixes like that can make.
-
-Although it's still not always easy, I'd suggest that the pros do clearly outweigh the cons... It's just a question of short-term discomfort for long-term peace. If not, then you might just need to suffer more as a result of this stuff, until you have a "fuck this" moment, and / or you just get bored and fed up of the lack of honesty and authenticity.
-
-It also might help to consider that, from one perspective, it's always a win to ask these difficult questions and challenge your own belief systems: if it's true, you have nothing to fear, because you'll question it and it'll come back around to the same truth. If it's not true, then it has no power over you, and you've just saved yourself a lot of pain and delusion and heartache. Also, no matter the result, your self-esteem goes up, because you're facing reality head-on, you're not turning away. This makes you more effective at whatever's most important to you, and more deeply happy.
 
 
 So with all that being said, let's jump right into the fun stuff!
@@ -164,17 +158,9 @@ Footnotes
 
 0.75 - *note to self*, possibly include a brief overview / current outline here too (and remove menu at the top, apart from Tl;dr, and put it at the end of the series, perhaps)
 
-0.775 - Ayn Rand wrote her 1200-page magnum opus "Atlas Shrugged" essentially on this idea that A = A, and exploring the implications of accepting and affirming that, and rejecting that - i.e. unconsciously believing that A = B. It's funny how such a small change like that can lead to such drastically different actions and outcomes - very much like when Rick collapses the galactic empire by hacking their database and changing "1 = 1" to "1 = 0" in Rick and Morty, season 3, LOL
+0.76 - Link to other page with that section
 
-0.8 - For me, the intuitive sense here literally feels like a "going the wrong way", "wasting effort" kinda vibe. And I feel a kind of subtle "knowing" that I'd benefit from pausing (despite the inertia), taking a step back (or 10), and remaining open long enough to find a better path.
-
-0.85 - The state / process I've just described almost exactly maps onto what peak performance psychologists call "Flow" - the state in which we feel and perform at our best. Probably a fair bit more to come on this... When a 10-year McKinsey study states that top business executives reported being five times more productive in [flow](https://www.entrepreneur.com/article/243047){:target="_blank"} ... With the way I've described it above, it's a little easier to see how this isn't an exaggeration - it's the way to solve the most important problems the fastest. Focusing on the right problems, with faster feedback, and more quality action... and it all multiplies and compounds from there.
-
-0.9 - Regrets of the dying, #1... + (best time to start is now, not too late, longevity escape velocity, and finish well - we remember it how we finish, the ending gives it the meaning) deathbed (and then it may be a bit late, although you can still make some changes / accept some things and finish well).
-
-1 - "Feel The Fear and Do It Anyway" by Susan Jeffers explores this breakdown a bit more deeply.
-
-1.1 - More on these to come. For now, you might enjoy "Why We Sleep" by Matthew Walker, "The Immunity Code" by Joel Greene, and the Waking Up app from Sam Harris.
+1 - Although it seems to be pretty intuitive to me, if you'd like to look into it a bit more, google "cognitive authority" as a branch of social epistemology.
 
 2 - And not to trip you out too much, but really, before _that_ we need to know, Who is it that's doing the aiming and shooting? And Who is it that's asking these questions? But yeah, more on that later. Hehe :)
 
