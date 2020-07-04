@@ -33,25 +33,23 @@ Most of us never really question THAT, either. In fact, we tend not to question 
 
 And when we _do_ ask questions, they tend to relate to playing the game better (eg. "How can I get X to like me?", or "How can I make more money?"), rather than questioning the game, or even the player ("Who am I?"), themselves.
 
-Instead, we tend to move through life, most of the time, with rigid certainty, holding fast to our opinions on everything from our religion, our politics, and our morality, to our diet, our fashion, and our sense of self§.
+Instead, we tend to move through life, most of the time, with rigid certainty, holding fast to our opinions on everything from our religion, our politics, and our morality, to our diet, our fashion, and our sense of self.
 
-But how can we be so certain about these topics, when we don't even know what we're doing here?<sup>0.5</sup>
+But how can we be so certain about these topics, when we don't even know what we're doing here?<sup>0.5</sup> We're trying to build completely stable structures on completely unstable foundations.
 
-It's easy to get caught up and lost in the day to day monotonies of our life in society... and never really ask the big questions, never really question the way things are.
+It's easy to get caught up and lost in the day to day details and monotonies of life in society... and never really look any deeper, never really question the way things are.
 
-**So that's the purpose of this site... To embrace the beautiful mystery of not knowing as a foundation, to rebuild from there with some (hopefully) independent thinking to find what's most important, and to experiment (together) in finding the best ways to live in alignment with that thinking.**
+So that's the purpose of this site... **To embrace the beautiful mystery of _not knowing_ as a foundation, to rebuild from there with some relatively clear (and somewhat crowdsourced) thinking to find what's most important, and to experiment (together) in finding the best ways to live in alignment with that thinking.**
 
 I'm not sure on the format that this will take - I have ideas, and some kind of a plan, but we'll see how it unfolds and changes over time. Don't worry though, it'll be obvious at each step of the journey as to what's happening next.<sup>0.75</sup>
 
 ### Why questions? And what gets in the way?
 
-Before we get into it, there are a couple things that seem useful and fairly important to discuss briefly:
+Before we embark on our journey, there are a couple things that seem useful and fairly important to discuss briefly:
 
-#1 - So far, we've talked a lot about questioning things. But is this even a good thing? Why not just "go with the flow"? Is it important to know what's important, "true"? What if we're 100% right, or even just "mostly" right about everything already - wouldn't that be a relative waste of our time and attention? Wouldn't our efforts be better spent elsewhere - like on taking action and on living in alignment with our answers?
+#1 - So far, we've talked a lot about questioning things. But is this even a good thing? Why not just "go with the flow"? Is it important to know what's important, "true"? What if we're 100% right, or even just "mostly" right about everything already - wouldn't that be a relative waste of our time and attention? Wouldn't our efforts be better spent elsewhere - like on taking action and on living our answers?
 
-+ Also addressing the "100% right/mostly right" part...
-
-Let's address the first couple questions first... Is questioning things a good thing? Is knowing what's important... important?
+All good questions! Let's take the first couple first... Is questioning things a good thing? Is knowing what's important... important?
 
 Well, I could say something along the lines of, "Of course, dear fellow! Lest we be ignorant and wander about aimlessly"... But couldn't ignorant ambling be a good thing, too? The point is that, ultimately, I don't know - and I don't think you _can_ know until you start thinking about what's important / true (i.e. asking questions), and even then, you're probably on shaky, circular ground. So perhaps it's not important. Perhaps it is. Either way, at least for me personally (and I'm guessing that, if you've read this far, you're probably similar), I seem to have a tendency for curiosity, to observe and ask questions and learn and discover my blindspots, to try and make sense of things and find meaning. I can partly ignore or suppress this "drive", but that doesn't make it go away<sup>0.775</sup>... it's still there. It seems that most humans share this drive to some extent. 
 
@@ -71,28 +69,31 @@ Well first, I think that, rather than being an absolute thing (asking questions 
 
 To answer this properly, we'd need to dive into why we do _anything_ - i.e. motivational psychology, decision-making, values, etc. I think this stuff is incredibly important, and I look forward to exploring a few models that I've found extremely useful with you soon... 
 
-But for now, for the sake of flow and brevity, I'm just going to list off the main factors I've noticed in myself (and my friends and clients). The idea here is to hold up a mirror for you so you become aware of any sticking points _you_ might have - an with that awareness comes the potential for becoming unstuck.
+But for now, for the sake of flow and brevity, I'm just going to list off the main factors I've noticed in myself (and my friends and clients). The idea here is to try and hold up a mirror for you so you can become aware of any of these sticking points _you_ might have - and with that simple awareness comes the rediscovery of "choice" and the potential for becoming unstuck.
 
 These factors fall into two main groups:
 
 **Positive expected outcome of not questioning things, eg:**
 
-- certainty bias (evolutionary strategy that works for short-term/survival situations)
-- ego, pride, *feeling* right
-- rewarded socially for conforming and not asking questions, for being like everyone else
-- feed the victim/loser self-image...
+- Evolutionary (short-term) benefit of maintaining an air of certainty, confidence, and control - so it's easier for you to act, and easier for others to follow and give you status.
+- The little emotional kick of ego, pride, and *feeling* right (without even necessarily needing to *be* right).
+- Rewarded socially for conforming and not asking questions, for being like everyone else. Able to feel some sense of connection and "safety in the herd".
+- Rewarded socially for playing a particular role (usually unconsciously), and developing a sense of identity around that. For example, playing the victim or weakling as a child, and being rewarded (with sweets, attention, mollycoddling, etc.) for it. This can lead to an unconscious drive to avoid anything that you sense might be good for you (eg. asking questions), and if you're going to "win", you're probably going to make it really hard for yourself.
 
 **Negative expected outcome of questioning things, eg:**
 
-- Heard "stop asking questions" from bored parents/teachers
-- Heard "you're dumb / incapable", so you don't think for yourself
-- Possibility of actually (temporarily) being and/or feeling dumb / incapable - poor physiology, overloaded mentally - Too tired, can't think straight, stressed with other concerns and challenges that are perhaps a little more urgent - And not just to do the thinking, but to act on the thinking. You sense you'll get different answers, and the only reasonable thing to do would be to act, but you're afraid of taking those actions, or you feel you don't have the energy for that, so you push the questions out of your mind.
-- Fear of unknown / uncertainty / loss of control, and/or the fear of the pain and regret of sunk cost
-- Fear of other imagined negative consequences - eg. Christianity when I was 11 - angering God if He was real (in the way I understood Him), a slight separation from my mum's religion and beliefs...
+- Heard "stop asking questions" from bored parents and/or teachers
+- Heard "you're dumb" or "you're useless", so you gave up thinking for yourself
+- Possibility of actually (temporarily) being dumb or relatively incapable of quality thinking and action, due to poor physiology and your mind being all over the place (eg. really underslept, been eating poorly, filled your mind with cat videos, haven't been meditating, stressed with other, seemingly more urgent, concerns and opportunity).
+- A general fear of the unknown, the uncertainty, and the loss of control that can come with questioning our beliefs and admitting we don't know for sure
+- The fear of the sunk cost - "Damn, I've believed and lived this for so long, look at all that wasted time, look at everything I could have been doing."
+- The fear of other imagined negative consequences - For example, I was raised as a Christian, and when, at age 11, I started to have doubts about my beliefs and the existence of a God, I was resistant to following those trains of thought in case God *did* exist and I went to hell, and for fear of separating myself from and angering my mum.
 
 After looking at all that, it'd be reasonable to think, "Wow, that's a lot... Is it really worth it?"
 
 But if you really look at it, most of these fears and internalized limiting self-attitudes are illusory (you _can_ handle it - don't buy into the shame, you're not defective, you're beautiful and you have so much potential), and these apparent rewards are typically shallow, fleeting, and unfulfilling.
+
+(/Essentially, not until we've met our 4 basic needs, able to move from I to We, socialized... We might feel very insecure as it... Harder... We'll be addressing this stuff if you can push through, but otherwise you might have to go away and do your best with your health/sex and your ego/relationships for a while... You might be ready for this, you might not be. Either way, it's great).
 
 It might help to break fear down a bit<sup>1</sup>. Fear is the anticipation that "X bad thing will happen", and _also_ that _we won't be able to handle it._ But chances are, you probably can handle it. And if you're unsure, perhaps get a support system in place to help you with whatever particular challenge it is you're facing.
 
