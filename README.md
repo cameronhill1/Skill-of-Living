@@ -10,6 +10,7 @@
 ### Start here (work in progress)
 
 **(North star: Unobstructed, Connected, Organized Self-Expression - for I We All Life)**
+
 **(or North star: Open, Complete, Connected, Organized Self-Expression - for I We All Life)**
 
 *(reading time: depends how fast you are :P)*
