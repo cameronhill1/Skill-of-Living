@@ -20,6 +20,8 @@ There's also a list of my favourite documentaries, films, series, anime, etc. at
 
 - **Tao Te Ching, Lao Tzu** - The translation is important, with Stephen Mitchell's being my personal favourite, and Gia-Fu Feng and Jane English's being more accurate (apparently)... Although I said my "If I could give you one book" was Josh Waitzkin's The Art of Learning, that was only because I think it's much more accessible for most people than the Tao Te Ching. I went through a (long) stage of reading something from this Tao Te Ching every day, simply because I wanted to keep only to the best inputs, and I could find nothing that could compare. It's essentially a collection of 81 short poems, or verses. You could read the whole thing comfortably in 20 minutes, though that doesn't do it justice... You could just as well spend a month, or a year, reading just a single verse. Each line seems to fill the heart with a lightness that seems hard to access elsewhere. Anyways, I'd highly recommend. You can download a Tao Te Ching app for free on the app store, with the translations I've recommended and a couple others too. Enjoy.
 
+- **7 Habits of Highly Effective People, Covey** - This is widely considered to be one of the most important books to be released in the "self-help" space, with over 25 million copies since its publication in 1989. Over the years, I have often found my ideas coming back around to closely reflect Covey's teachings and philosophy, and it's a book that I would probably do well to read more often! With no fluff, Covey suggests that there are timeless "principles" which we would do well as humans to align our "values" with - and then to live in alignment with those values. The 7 habits are both an exploration of those principles, and a practical guide on how to align ourselves with them. Highly recommended.
+
 - **The War of Art + The Artist's Journey, Pressfield** - Both books are short, with pretty simple core concepts that explore from many different angles, so that you come away feeling very inspired and much more likely to start applying them in your life. The War of Art looks at our "Daemon", our Resistance to it, and how to reframe and overcome this Resistance. It's a really important book if you want to ever get anything of value done, I think. The Artist's Journey, although it covers Resistance, looks more at Art's place in our creative and spiritual lives. Among other things, he maps Joseph Campbell's work on the hero's journey onto that of an artists, both on the macro level, and on the micro level, giving a practical walkthrough of what it looks like to make Good art.
 
 - **Power of Now + A New Earth, Tolle** - Although I think A New Earth is better, I think the Power of Now is a better introduction to "presence" and living with more conscious awareness. Both are classics that have changed millions of lives. If you think you're getting a bit stuck in "doing" and need to learn to chill out more into just "being", these are worth checking out.
@@ -45,17 +47,19 @@ So these books will give you a pretty good head start on most everything in life
 
 ### Human nature, life
 
-- **Laws of Human Nature, Greene** - In my opinion, Robert Greene is such a fantastic writer (and researcher). His work over the past couple decades has all been around human behaviour and human excellence... and this book is the Master's comprehensive guide to the human OS, with all its flaws and leverage points.
+- **Laws of Human Nature, Greene** - In my opinion, Robert Greene is such a fantastic writer (and researcher). His work over the past couple decades has all been centred around human behaviour and excellence... and this book is the Master's comprehensive guide to the human OS, with all its flaws and leverage points.
 
-- **Man's Search for Meaning, Frankl** - 
+- **Man's Search for Meaning, Frankl** - Victor Frankl was a holocaust survivor. He observed that most people lost hope and the will to live, and that these were usually the next to pass. He started to form his own horror-tested interpretation of an existential philosophy, which then formed the basis of "logotherapy", or helping people to heal and grow through shifting the meaning associated with difficult or traumatics events in our lives. "Everything can be taken from a man but one thing: the last of the human freedoms — to choose one's attitude in any given set of circumstances, to choose one's own way." Apart from being extremely practically useful, it's incredibly inspiring.
 
-- **The Perennial Philosophy, Huxley** - 
+- **The Perennial Philosophy, Huxley** - I haven't actually read all of this one (I started, but it seemed a bit dense and felt I already got the idea), but many others have talked extensively about this (eg. Alan Watts, Ken Wilber), and I use this concept a lot, so I figured I'd put this here if you'd like to see it explored more deeply. When we talk of "the perennial philosophy", we're referring to the essential, common, golden thread at the core of all the world's great traditions and religions. In 
 
 - **On The Shortness of Life, Seneca** - Life is long if you know what to do with it.
 
 - **Psychology of Human Misjudgement, Munger** - [here's a video link to the speech](https://www.youtube.com/watch?v=pqzcCfUglws){:target="_blank"}
 
 - **The Evolving Self?, Kegan** - 
+
+- **Stumbling on Happiness, Gilbert** - 
 
 - **The 6 Pillars of Self-Esteem, Branden** - 
 
@@ -66,6 +70,8 @@ So these books will give you a pretty good head start on most everything in life
 - **Gödel, Escher, Bach?, Hofstadter** - 
 
 - **The User Illusion, Nørretranders** - 
+
+- **Reasons and Persons, Parfit** - 
 
 - **The Subtle Art of Not Giving A Fuck, Manson** - Also check out his blog (MM.net I believe). One of my favourite writers, has a knack for cutting through the noise and delivering clean signal - this book is a great one for reassessing your priorities in life and loosening up a little - and is a very fun listen on audiobook.
 
@@ -181,19 +187,27 @@ So these books will give you a pretty good head start on most everything in life
 
 - **Udemy, Coursera, EdX, Masterclass and other online course sites** - learn anything you want, online!
 
-- **Farnam Street** - A wonderful blog on cultivating wisdom and critical thinking
+- **Farnam Street** - A wonderful blog on cultivating wisdom and critical thinking. Check out their *awesome* core principles [here](https://fs.blog/principles/){:target="_blank"} and their *fantastic* collection of mental models [here](https://fs.blog/mental-models/){:target="_blank"}
 
 - **JP's Hero's Journey**, an audio course on SoundsTrue from JP Sears.
 
 - **Abundance Digital** - Peter Diamandis' online program/community for exponential entrepreneurs
 
+- **Work of Eric Thomas
+
 - **Tony Robbins, work of**
 
-- **Documentaries / Series:** Human (YT series), Trip of Compassion, Jiro Dreams of Sushi, The Dawn Wall, Free Solo, Rick and Morty (hehe), Avatar: The Last Airbender, The Defiant Ones, Quincy, Rolling Thunder Revue, I Am Not Your Guru, George Harrison: Living in The Material World
+- **Earl Nightingale, The Direct Line (audio)" - 
+
+- **Work of Elliott Hulse, Eric Thomas...
+
+- **Documentaries / Series:** Human (YT series), Trip of Compassion, Jiro Dreams of Sushi, The Dawn Wall, Free Solo, Rick and Morty (hehe), Avatar: The Last Airbender, The Defiant Ones, Quincy, Rolling Thunder Revue, I Am Not Your Guru, George Harrison: Living in The Material World, Songwriter (Ed Sheeran)
 
 - **Films:** It's a Wonderful Life, Schindler's List, Saving Private Ryan, 50 Shades, Kung Fu Panda, Lion King, LOTR, The Last Samurai, Gandhi, Braveheart, Titanic, Zorba the Greek, Pay It Forward, Into The Wild, Forrest Gump, Star Wars, Her, Green Book, Shawshank Redemption, Bohemian Rhapsody, The Green Mile, The Light Between Oceans, The Best of Me, Theory of Everything
 
 - **Anime:** Classic Gibhli films, Your Name (Kimi No Na Wa), Weathering With You (Tenki No Ko), Your Lie in April (Watashi No Uso), A Silent Voice (Koe No Katachi), Lost Song (Rosuto Songu), Wolf Children (Ōkami Kodomo no Ame to Yuki), OG Pokémon
+
+- **Music:** - This is a tough one man. I listen to a lot of good music, from pretty much all genres and time periods - after all, Good music is Good music. Most of us nowadays stick pretty closely to a couple genres, and usually only the most recent stuff... I'd just say, try exploring a bit more. Check out a Top 100 albums list from a reputable source like Mojo or Rolling Stones magazine, and see if there's anything there that grabs your fancy. And so too with more current artists - there are a lot of incredible indie and smaller artists out there that are on par with or surpassing the top dogs, but just don't have the recognition. That being said, here are a few [favourites](https://open.spotify.com/playlist/5AUo7wHNVR0qSfGr3akeEI?si=YRxr2XoMTDqtN6xCy4XG1w){:target="_blank"} (Spotify).
 
 
 
