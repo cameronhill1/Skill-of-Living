@@ -16,7 +16,7 @@ Anyways, I've got more on business / systems elsewhere on this site, and some go
 
 We want to identify the most important challenges at any one moment, and solve them as effectively and quickly as possible (adaptability). So...
 
-### Tiers of importance
+### Cycle of importance
 
 - What are the guiding principles underlying the tiers (and their contents)?
   - In effect, some philosophy and how to live in alignment with it. That's the purpose of this site.
@@ -53,3 +53,25 @@ Companies sharing our data + their insights with us so we can learn from it too 
 Economics - importance of aligning short & long term - and removing the barriers to this (stress, fear, cortisol, -> lack of perspective and short-term thinking) - and incentivizing this.
 Energy - clean, cheap
 Self-sufficiency and efficiency (through skills & systems) in basic needs… for all. Shelter, food, water, health/immunity and sanitation, money, education, sustainable living, consumption & healing (short & long-term) for all life, systems of connection, communication, and organization
+
+
+
+
+
+***
+
+FAQ - If establishing a direction sits downstream of our primary resources (intelligence, energy, information, etc.), then why isn't first?
+
+Hmm this is a really hard one. I think that it's actually a feedback loop - increased intelligence -> course correction -> increased intelligence. 
+
+Do your best and course correct?
+
+
+...
+
+
+What about awareness? For feedback... 
+
+
+
+
