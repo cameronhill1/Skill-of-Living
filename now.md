@@ -5,6 +5,33 @@ Kinda like a public journal, here you'll find: what's on my heart and mind, idea
 
 Just because something is written here, it does not mean that it is true or valuable, or even that I believe it to be so. It's purely to share what's going on with me right now, in case you're wondering. I find it gives meaning to my struggles, and multiplicity to my celebrations.
 ```
+## 1AM July 7th 2020
+
+Hello! Been a couple days...
+
+Been working on this consistently, though still taking Sundays off (for perspective and taking a step back).
+
+Just filled out some of the Recs page (book descriptions), and felt inspired to fill out the Tl;Dr page a bit.
+
+Been wondering today, as I fall more and more deeply in love with singing and music, how much of the "need to get this out the way" is real.
+
+That is, there's been a story going on for a while of "This is just something I need to do. Once I've done this, I can die / let go fully." 
+
+But I'm getting the sense that the continual "retreat" into the theory and the philosophy and morality, etc. "for the benefit of others and myself" - or in other words, aligning things completely so it's clear and we can just live it... Is a way to *postpone* letting go into just living it. I'm noticing a slight fear around that. "But will I be okay without continual thinking, planning, strategizing?" Perhaps the answer's "No, but I'll be more 'okay' than *with* it."
+
+Also, if Knowing is beyond reason, and we rationalize for our emotions anyways... It's less about convincing, and more about demonstrating, inspiring.
+
+And the practical manifestations of all this are really quite simple (eg. HRV training, maybe an introductory course, simple health recommendations, reviewing something / affs...)
+
+I mean, maybe it IS both. There's probably value in aligning things rationally, once we've had a taste of the Truth. So we can inspire through living IT, and then point so we have some ground for it. It helps to elevate the structure with the state. Perhaps.
+
+Ultimately, I feel it's right to continue this, to build it out Well, to continue to evolve with it over time. But I also feel it taking a slightly more backseat role. I still love it.
+
+But I'm particularly on fire with singing and music at the moment - from just doing it more, and expressing myself more with it I suppose. Also watching some really inspirational videos of singing auditions today. Beautiful stuff. While I was typing away earlier, I thought of Birdy's version of Skinny Love and my heart nearly burst. Like, that's what it felt like. I was listening to it this afternoon and as I started to sing along I just started crying. I could barely get the words out.
+
+Man. Life is fucking beautiful.
+
+
 
 ## 3.30AM July 2nd 2020
 
