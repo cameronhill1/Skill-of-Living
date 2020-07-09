@@ -9,7 +9,7 @@
 
 ### Start here (work in progress)
 
-**(North star: Unobstructed, Connected, Organized Self-Expression - for I We All Life)**
+**(North star: Unobstructed, Connected, Organized Self-Expression - for and as I We All Life)**
 
 **(or North star: Open, Complete, Connected, Organized Self-Expression - for I We All Life)**
 
@@ -45,7 +45,7 @@ But how can we be so certain about these topics, when we don't even know what we
 
 It's easy to get caught up and lost in the day to day details and monotonies of life in society... and never really look any deeper, never really question the way things are.
 
-So that's the purpose of this site... **To embrace the beautiful mystery of _not knowing_ as a foundation, to rebuild from there with some relatively clear (and somewhat crowdsourced) thinking to find what's most important, and to experiment (together) in finding the best ways to live in alignment with that thinking.**
+So that's the purpose of this site... **To embrace the beautiful mystery of _not knowing_ as a foundation, to rebuild from there with some relatively clear (and somewhat crowdsourced) thinking to find what's most important, and to experiment (together) in finding the best ways to live in alignment with that.**
 
 The particular format that this takes is continually morphing and evolving over time, like its own living being. I have an overall intention, and a few ideas organized into some kind of plan, but we'll see how it unfolds.
 
@@ -109,7 +109,7 @@ So with all that being said, let's jump right into the fun stuff!
 
 Before we can figure out "how" to hit the target (or get close), we first need to know what we're aiming for (or have a good guess, at least).<sup>2</sup>
 
-It appears to me that there are a few ways we could go about this:
+It appears to me today that there are a few ways we could go about this:
 
 1. We could follow our desires, aversions, and emotions - both those that can be satisfied in the short-term, and those requiring longer-term, more strategic pursuit.
 
@@ -130,6 +130,11 @@ It appears to me that there are a few ways we could go about this:
 Now let's run through them, look at them as a whole, and try to make some sense out of this...
 
 *NB - before we go any further, let me be clear that it's quite probable that I'm missing something here. If so, please fill me in, and I can adjust it for all of our benefit. These are questions that mankind has grappled with for millenia, and I'm by no means suggesting that I have all the answers. Just a few ideas and thought experiments.
+
+
+
+
+
 
 
 (Opportunistic - pain vs. pleasure, Socialized - shame vs. pride, Self-authoring** - self-betrayal vs. self-esteem, Self-transformative** - unnecessary vs. unobstructed & connected self-expression)
@@ -178,9 +183,9 @@ In 2, with the paradoxes, can mention how we pointed before to the essential nat
 
 
 Core idea of having evolutionary programming that helps us in short-term/survival situations, but as we expand our perspective (like from I to We / Opportunistic to Socialised, so too from we to all / life, etc.), our adaptability comes down to our ability to identify the best ways to rewrite our own code/programming and to quickly do it. Eg. avoidance to stillness (with some grey area too), and from I/We to All/Life... 
-Whether it's through methods we explore that our now available, or possibilities in the future like biotech and HI... 
+Whether it's through methods we explore that are now available, or possibilities in the future like HI... 
 
 
 ***
-© ch mmxx
+<font size="4">© ch mmxx</font>
 
