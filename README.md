@@ -98,7 +98,7 @@ And most importantly, think and test them for yourself. If you find results or e
 - Currently launching a health consulting company (unrelated to any of this)
 - I used to have questions like "Why does it seem the more I want something, the less likely it is to happen?" "Why does it feel like there's something in the way, something I'm missing?" "Why does it seem to be so effortless and relatively easy for my friends?" I found some answers that helped me a lot, and I don't really ask those questions anymore.
 
-
+One more thing - you may wish to drag the url to the bookmark bar for easy access whenever you've finished.
 
 So with all that being said, let's jump right into the fun stuff!
 
