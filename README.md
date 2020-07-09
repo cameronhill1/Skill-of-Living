@@ -141,7 +141,7 @@ Now let's run through them, look at them as a whole, and try to make some sense 
 
 (If it’s not obvious what to do, just “be” until it is. ?)
 
-
+(Stumbling on Happiness, bad at predicting what will make us happy - look at those who are happiest... giving... but not out of obligation, but natural extension of handling your own stuff first, expanding circle of concern, evolution, skills...)
 
 
 
