@@ -7,7 +7,7 @@
 
 ***
 
-### Start here (work in progress)
+### Start Here - What do we want, why, and what gets in the way? _(work in progress)_
 
 **(North star: Unobstructed, Connected, Organized Self-Expression - for and as I We All Life)**
 
@@ -105,7 +105,7 @@ So with all that being said, let's jump right into the fun stuff!
 
 ***
 
-## What do we want, why, and what gets in the way?
+## Idea 1
 
 Before we can figure out "how" to hit the target (or get close), we first need to know what we're aiming for (or have a good guess, at least).<sup>2</sup>
 
