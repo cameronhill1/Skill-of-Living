@@ -200,7 +200,9 @@ Point of society stuck in doing, sense of working so then you can relax, doing s
 
 
 
+****
 
+The valuable adaptability / adaptably valuable cycle is kinda a mix between Kant and Sam Harris’ moralities, simply by including the value in it. Sam’s is assuming the value is happiness, Kant’s considers it to be rationality / consciousness. Both are currently important parts, and as we evolve, our understanding of the “Good” will probably evolve with it. Do your best and course correct. We cannot possibly predict what we will value above all else in the future, because we are not that person. Just like when you were 5 you couldn’t possibly have guessed you’d one day value the necessary experience of pain in the pursuit of the meaning, or when you were 20 and seeking success in the business world, you couldn’t have possibly guessed you’d value sitting under a tree and resting in a non-dual experience… ha! And the rate of change is accelerating so the future is likely to be orders of magnitude different than it is currently (singularity). - But for now, we value rationality, awareness, consciousness... and happiness... 
 
 
 
