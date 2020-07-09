@@ -187,5 +187,5 @@ Whether it's through methods we explore that are now available, or possibilities
 
 
 ***
-<font size="4">© ch mmxx</font>
+<font size="1">© ch mmxx</font>
 
