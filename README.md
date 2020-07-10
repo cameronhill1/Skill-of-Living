@@ -98,7 +98,7 @@ So with all that being said, let's get into the fun stuff!
 
 ***
 
-## Idea 1
+### Idea 1
 
 Before we can figure out "how" to hit the target (or get close), we first need to know what we're aiming for (or have a good guess, at least).<sup>2</sup>
 
@@ -125,7 +125,37 @@ Now let's run through them, look at them as a whole, and try to make some sense 
 *NB - before we go any further, let me be clear that it's quite probable that I'm missing something here. If so, please fill me in, and I can adjust it for all of our benefit. These are questions that mankind has grappled with for millenia, and I'm by no means suggesting that I have all the answers. Just a few ideas and thought experiments.
 
 
+### Idea 2
 
+.
+
+### Idea 3
+
+.
+
+### Idea 4
+
+.
+
+### Idea 5
+
+.
+
+### Idea 6
+
+.
+
+.Wrap up
+
+.
+
+[**Next: 2. Conscious Clarity - Playing with paradoxes, persistent pain, and perfection.**](https://skillofliving.com/2)
+
+****
+
+### Ideas to slot in / Related ideas I'm considering
+
+.
 
 
 
@@ -143,14 +173,31 @@ Now let's run through them, look at them as a whole, and try to make some sense 
 
 
 
+.
+
+
+```
+An example of how this is changing: as I continued writing this, the next section was originally called "Why questions? And what gets in the way?"
+
+Its purpose was to make sure we were moving forward without any lingering doubts, by first playing devil's advocate and questioning the value of questions, and then by exploring what tends to get in the way of us questioning things (and otherwise doing things that we sense might be beneficial for us).
+
+These kinds of sections, where we're double-checking our thinking and handling common objections, are important in what we're doing here... especially considering we're starting by emphasizing the importance of "not knowing" and the value of questions!
+
+However, that section got pretty thorough, long-winded, and began to disrupt the flow completely. So I've put it all on a separate page, and linked it [here](https://skillofliving.com/1-1){:target="_blank"). I will continue to do that, or put them in the footnotes, where relevant. Then you can check them out at your leisure.
+
+Many of the questions you feel arising will be addressed later on, and so you may find that, by simply reading through from start to finish, there is no need for these sections. However, in the event that really just don't get something... they're there (most of the time).
+```
+
+
+.
+
+.
 
 
 
+***
 
-
-
-
-Footnotes
+### Footnotes
 
 0 - By volume, the Earth is supposedly 5.539108e+82 times smaller than the known universe. And for most of us, most of our daily concerns are not even worldcentric, but "egocentric", and maybe "social-circle-centric". [This video](https://www.youtube.com/watch?v=Iy7NzjCmUf0){:target="_blank"} is pretty cool and puts things in perspective.
 
@@ -169,30 +216,6 @@ Footnotes
 
 
 ****
-
-
-In 2, with the paradoxes, can mention how we pointed before to the essential nature of dealing with them - both, a spectrum, transcend and include, both true, one is more... 
-
-
-
-Core idea of having evolutionary programming that helps us in short-term/survival situations, but as we expand our perspective (like from I to We / Opportunistic to Socialised, so too from we to all / life, etc.), our adaptability comes down to our ability to identify the best ways to rewrite our own code/programming and to quickly do it. Eg. avoidance to stillness (with some grey area too), and from I/We to All/Life... 
-Whether it's through methods we explore that are now available, or possibilities in the future like HI... 
-
-
-
-
-```
-An example of how this is changing: as I continued writing this, the next section was originally called "Why questions? And what gets in the way?"
-
-Its purpose was to make sure we were moving forward without any lingering doubts, by first playing devil's advocate and questioning the value of questions, and then by exploring what tends to get in the way of us questioning things (and otherwise doing things that we sense might be beneficial for us).
-
-These kinds of sections, where we're double-checking our thinking and handling common objections, are important in what we're doing here... especially considering we're starting by emphasizing the importance of "not knowing" and the value of questions!
-
-However, that section got pretty thorough, long-winded, and began to disrupt the flow completely. So I've put it all on a separate page, and linked it [here](https://skillofliving.com/1-1){:target="_blank"). I will continue to do that, or put them in the footnotes, where relevant. Then you can check them out at your leisure.
-
-Many of the questions you feel arising will be addressed later on, and so you may find that, by simply reading through from start to finish, there is no need for these sections. However, in the event that really just don't get something... they're there (most of the time).
-```
-
 
 
 
