@@ -9,9 +9,9 @@
 
 ### Start Here - What do we want, why, and what gets in the way? _(work in progress)_
 
-**(North star: Unobstructed, Connected, Organized Self-Expression - for and as I We All Life)**
+**(North star: Unobstructed, Connected, Organized Self-Expression... + Perspective/Awareness/Not knowing?)**
 
-**(or North star: Open, Complete/True/Whole/Deep, Connected, Organized Self-Expression - for I We All Life)**
+**(or North star: Open, Complete/True/Whole/Deep, Connected, Organized Self-Expression)**
 
 *(reading time: depends how fast you are :P)*
 
