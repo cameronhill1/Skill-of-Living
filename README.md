@@ -11,7 +11,7 @@
 
 **(North star: Unobstructed, Connected, Organized Self-Expression... + Perspective/Awareness/Not knowing?)**
 
-**(or North star: Open, Complete/True/Whole/Deep, Connected, Organized Self-Expression)**
+**(or North star: Open, Complete/True/Whole/Deep/Pure, Connected, Organized Self-Expression)**
 
 *(reading time: depends how fast you are :P)*
 
