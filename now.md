@@ -5,6 +5,25 @@ Kinda like a public journal, here you'll find: what's on my heart and mind, idea
 
 Just because something is written here, it does not mean that it is true or valuable, or even that I believe it to be so. It's purely to share what's going on with me right now, in case you're wondering. I find it gives meaning to my struggles, and multiplicity to my celebrations.
 ```
+## 1AM July 11th 2020
+
+The past few days, I've been consistent with this site, doing at least an hour or two, sometimes more, in the evenings.
+
+Amazed at how quickly the body adapts to less sleep. For a while, I've been aiming to sleep 9-10 hours a night, and obsessing over the quality. Lately, I've been averaging maybe 5-6 hours a night, on a sofa with a cat or two, in a very light room.
+
+Although, of course, I *do* feel better when I'm sleeping well, and I *am* noticing reduced athletic and HRV performance, I am *not* self-destructing or struggling as much as I thought I would (and as the occasional night of poor sleep suggested I might). My energy levels are the same, if not higher. I'm still able to think reasonably clearly. I can still hold (and enjoy) a conversation.
+
+Not ideal, not long-term, but not the end of the world. Perhaps more important is just focusing on doing things that fulfil you deeply, make you happy. Eg. This site, and...
+
+I've also been singing a lot more (2 focused hours per day, with more throughout the afternoon and evening), and I'm noticing the results. Really happy with the progress - tone is improving (back on the old "La Ga" exercises I was doing), authenticity is improving, phrasing is improving, pitching is improving a bit (I think)...
+
+Been noticing that my thoughts have been running away a little with the progress - whether it's in singing, in health and physique, in this site (I've been clarifying the structure and working on some models that have been pleasing), the mind starts coming up with stories of how impressed people will be, how much people (especially quality women, and men I look up to) will admire me and praise me, what it might lead to, etc.
+
+And I'm getting kinda bored of it now, haha, to be honest. Yes there's clearly a big part of me that focuses on these things for the approval, the recognition, the practical benefits. But I also just love doing these things. I also just want to be "out here", with you, and for you. To connect. To create. To share. To express. To live. To love.
+
+So yeah. Thanks for being here with me. xx
+
+
 ## 1AM July 7th 2020
 
 Hello! Been a couple days...
