@@ -157,6 +157,7 @@ Now let's run through them, look at them as a whole, and try to make some sense 
 
 .
 
+What gets in the way? Confusion, yes... born of being asleep and being ignorant.
 
 
 
