@@ -55,41 +55,41 @@ So these books will give you a pretty good head start on most everything in life
 
 - **The Hero With A Thousand Faces, Campbell** - Also great is the audio/video series he did with Bill Moyers titled "The Power of Myth" - Related to the perennial philosophy discussed above, Joseph Campbell found through a lifetime of work in mythology that the vast majority of our stories and scriptures passed down through the ages contained the same basic structure, which he termed the "hero's journey". With three main stages: departure, initiation, and return, it has become an internalized blueprint for master storytellers all over. This is well accompanied by [this interesting Ted talk](https://www.ted.com/talks/tomas_pueyo_why_stories_captivate?language=en){:target="_blank"}.
 
-- **On The Shortness of Life, Seneca** - Life is long if you know what to do with it.
+- **On The Shortness of Life, Seneca** - The tagline says it all: "Life is long if you know what to do with it." This wasn't particularly impactful for me when I read it, but I think it's an important counterpoint to the common complaint that "life is short". It's only short if you waste it, if you live it as if you had all the time in the world. It's eternal if you accept death and relax fully into this moment.
 
-- **Psychology of Human Misjudgement, Munger** - [here's a video link to the speech](https://www.youtube.com/watch?v=pqzcCfUglws){:target="_blank"}
+- **Psychology of Human Misjudgement, Munger** - [PDF](https://static1.squarespace.com/static/5ca3e714d74562b554c38604/t/5caa07a9971a182374badc19/1554646956708/Psychology+of+Human+Misjudgment.pdf){:target="_blank"}, [Speech](https://www.youtube.com/watch?v=pqzcCfUglws){:target="_blank"} - Charlie Munger is the business partner of Warren Buffet, and an incredibly intelligent guy. He considers this subject to be one of, if not *the* most important subjects to learn well - that of the psychology of human misjudgement, of learning the ways that we're most susceptible to be wrong. As he says, "All I want to know is where I'm going to die so I'll never go there." If we become aware of our weaknesses, we can start try to correct for them. This speech is a fantastic intro to some of the different cognitive biases common to all of us.
 
-- **The Evolving Self?, Kegan** - 
+- **Thinking, Fast and Slow, Kahneman** - ...And this book is the culmination of decades of work on the same subject by Nobel prize-winner Daniel Kahneman.
 
-- **Stumbling on Happiness, Gilbert** - 
+- **The Evolving Self?, Kegan** - I haven't read this one, but am otherwise familiar with Kegan's work, and this seems to be the best one to start with. Leading Harvard adult developmental psychologist Robert Kegan presents a wonderful model of evolution in humans that parallels nicely with those of many other schools of thought (eg. integral, spiral dynamics, Maslow's hierarchy of needs...). He suggests that we move from Opportunistic, to Socialized, to Self-authoring, and then to Self-transformative, and explores the limitations of the socialized self. Also great is his "Immunity to Change", which simply lays out what gets in the way of transforming for most people - namely, the fear of experiencing negative feelings such as shame and disappointment - and presents a simple method for navigating the rocky terrain.
 
-- **The 6 Pillars of Self-Esteem, Branden** - 
+- **Stumbling on Happiness, Gilbert** - In this one, Dan Gilbert (another Harvard psychologist) explores a few of these cognitive biases in detail to explain why we're so bad at predicting what will make us happy. He concludes that we should trust ourselves less in this department, and ask people who have been through what it is that we're considering - how do they feel? This can save us years of wasted effort - it is said that the worst thing in life is not to miss out on what you want, but to get it and realize that it's not what you wanted. So, let's make an active effort to look at the happiest people in the world, and see how they live.
 
-- **The Vital Question, Lane** - 
+- **The 6 Pillars of Self-Esteem, Branden** - This is the seminal work on self-esteem, from what I've seen. I think the concept of self-esteem, and the way in which it's explored here, is extremely all-pervasive, permeating all aspects of life. Nathaniel Branden was Ayn Rand's lover for a while, and she considered him to be the living embodiment of her work (she based the character John Galt on him). So, if you'd like a fiction book or two with many examples of characters *living* these ideas, then you may enjoy Atlas Shrugged and/or The Fountainhead.
 
-- **Why Information Grows?, Hidalgo** - 
+- **The Vital Question, Lane** - Nick Lane asks the question "Why has life evolved the way it has?", and points to energy (availability, efficiency) as the answer.
 
-- **Gödel, Escher, Bach?, Hofstadter** - 
+- **Why Information Grows?, Hidalgo** - Hidalgo explores how information "spins up" exponentially.
 
-- **The User Illusion, Nørretranders** - 
+- **Gödel, Escher, Bach?, Hofstadter** - Hofstadter draws on many disparate sources and fields to present his main idea: that consciousness, the feeling of being a self, is the result of many neurones firing and coordinating together (in ways we're not yet 100% clear on).
 
-- **Reasons and Persons, Parfit** - 
+- **The User Illusion, Nørretranders** - Nørretranders uses the idea of the "user illusion" from computers (the illusion that there is a desktop etc., rather than just a graphical interface layed on top of code and hardware) as an analogy to suggest that we are also living a user illusion - that perhaps there is no "self" in the way that we typically tend to think of it.
 
-- **The Subtle Art of Not Giving A Fuck, Manson** - Also check out his blog (MM.net I believe). One of my favourite writers, has a knack for cutting through the noise and delivering clean signal - this book is a great one for reassessing your priorities in life and loosening up a little - and is a very fun listen on audiobook.
+- **Reasons and Persons, Parfit** - This is a powerful philosophy / morality / ethics book, with a central theme of "impersonality" and its implications.
 
-- **Integral Psychology?, Wilber** - 
+- **The Subtle Art of Not Giving A Fuck, Manson** - Also check out his blog (MM.net I believe). One of my favourite writers, Mark has a knack for cutting through the noise and delivering clean signal, in a humorous way - this book is a great one for reassessing your priorities in life and loosening up a little - and is a very fun listen on audiobook.
 
-- **Thinking, Fast and Slow, Kahneman** - 
+- **Integral Psychology?, Wilber** - I haven't read this one, but if you're looking for a deeper introduction into Wilber's work and Integral theory (following on from Integral Meditation), then this may be worth checking out.
 
-- **Iron John, Bly** - 
+- **Iron John, Bly** - Some people may not vibe with this book like I did, but this one changed me big time. I remember a rare week of complete seclusion and isolation a few years ago where I read this book, took a LOT of notes, and meditated on and built out those notes thoroughly. This, along with a couple other books and films, helped me to start making the shift from seeking success outside of me to turning within and going deep. Robert Bly tells the tale of Iron John wth extensive commentary to demonstrate the classic path of male development, of initiation, of going from boy to man. A lot of it also applies to women, but this one's directed at men.
 
-- **King, Warrior, Magician, Lover, Gillette and Moore** - 
+- **King, Warrior, Magician, Lover, Gillette and Moore** - This one is another powerful book along the same lines, and I've been amazed at how many times I've seen parallels for this model cropping up all over the place. The general idea presented by these two Neo-Jungian psychologists is that, in the balanced and mature male psyche, there are 4 particularly important archetypes (patterns of being) that assist and balance each other: The King, the Warrior, the Magician, and the Lover. They each have a balanced expression, as well as the two polarities of imbalanced (shadow) expression. Love it.
 
 - **The Obstacle is the Way?, Holiday** - I have only been through summaries of this (as I was already pretty familiar with Stoic philosophy), but apparently this is a great introduction, and I've seen nothing to suggest otherwise. The title alone is incredibly powerful. Another great one on Stoic philosophy - Meditations by Marcus Aurelius. That's a beautiful one.
 
 - **The Impersonal Life, Benner** - Let me warn you that this one is not for everyone. Originally published in 1914, this is an intensely "spiritual" book... It's pretty short, and it's written in a strange style, but it is essentially one constant pointer to who you are... and who you're not.
 
-- See some of the fiction recommendations too for this section...
+- See some of the fiction recommendations too for this section... (below)
 
 
 ### Health
