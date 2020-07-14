@@ -1,12 +1,14 @@
 ## Favourites / Recs
 
-Here's a list of books, films, and other resources that have been particularly important for me, or that I think might be particularly important for you.
+Here's a list of books, films, and other resources that have been particularly important for me, or that I think might be particularly useful and / or enjoyable for you.
 
 Even if I don't agree with everything in all of them (and in some cases I haven't even read the full book), I've tried to select resources that I feel, together, constitute some of my current views and philosophy. As always, this will most likely change, and so I will probably update this list as time goes on.
 
 Also, in my experience, it's not just about reading a "good book", but also about reading the _right_ good book at the _right_ time. Some books you pick up and you can't get through the first chapter, but then you read it 12 months later and it changes your life. And then you may recommend that book to a friend, and it may be old news for them.
 
 So, I'm also giving little descriptions of why each book is here, what the general idea is, so you can get a better sense for what you might want to check out next (if anything).
+
+A general note - there are a couple books directly about the ways of society (economics, politics, history, etc.), but not too many, as I feel they are covered very well indirectly in the other books here.
 
 There's also a list of my favourite documentaries, films, series, anime, etc. at the bottom too. That's less about being Useful and more about being Beautiful / Fun :) - though I've found the line between the two to be quite blurry all throughout this page. I hope you find this to be true for you, as well. Happy living!
 
@@ -18,15 +20,15 @@ There's also a list of my favourite documentaries, films, series, anime, etc. at
 
 - **The Talent Code + Little Book of Talent, Coyle** - The Talent Code is Daniel Coyle's first book I believe, and is profound. There are many books exploring mastery and learning, but I really like the way Coyle laid it out here, with some important and novel insights. I enjoy the focus on the mechanism of myelin that underlies learning, and how this supports a growth mindset. Helps you to get a better sense for your potential (and it's almost limitless potential). The Little Book of Talent is a short collection of 52 suggestions for applying these insights practically. Both are great.
 
-- **Tao Te Ching, Lao Tzu** - The translation is important, with Stephen Mitchell's being my personal favourite, and Gia-Fu Feng and Jane English's being more accurate (apparently)... Although I said my "If I could give you one book" was Josh Waitzkin's The Art of Learning, that was only because I think it's much more accessible for most people than the Tao Te Ching. I went through a (long) stage of reading something from this Tao Te Ching every day, simply because I wanted to keep only to the best inputs, and I could find nothing that could compare. It's essentially a collection of 81 short poems, or verses. You could read the whole thing comfortably in 20 minutes, though that doesn't do it justice... You could just as well spend a month, or a year, reading just a single verse. Each line seems to fill the heart with a lightness that seems hard to access elsewhere. Anyways, I'd highly recommend. You can download a Tao Te Ching app for free on the app store, with the translations I've recommended and a couple others too. Enjoy.
+- **Tao Te Ching, Lao Tzu** - The translation is important, with Stephen Mitchell's being my personal favourite, and Gia-Fu Feng and Jane English's being more accurate (apparently)... Although I said my "If I could give you one book" was Josh Waitzkin's The Art of Learning, that was mainly because I think it's much more accessible for most people than the Tao Te Ching. I went through a (long) stage of reading something from this Tao Te Ching every day, simply because I wanted to keep only to the best inputs, and I could find nothing that could compare. It's essentially a collection of 81 short poems, or verses. You could read the whole thing comfortably in 20 minutes, though that doesn't do it justice... You could just as well spend a month, or a year, reading just a single verse. Each line seems to fill the heart with a lightness that seems hard to access elsewhere. Anyways, I'd highly recommend. You can download a Tao Te Ching app for free on the app store, with the translations I've recommended and a couple others too. Enjoy.
+
+- **Awareness (audiobook), De Mello** - This is also a very strong contender for "if I could give you one (audio)book." For many people, this will be much more impactful than any other book on this list. Super funny, wonderful storytelling, masterful pointing to the Truth - and incredibly accessible for almost everyone. I now consider this to be at least on par with Eckhart Tolle's work as an introduction to "Presence" - though that doesn't mean it's just for beginners... the 20-year meditator is just as likely to benefit from and enjoy this one as the newbie.
 
 - **7 Habits of Highly Effective People, Covey** - This is widely considered to be one of the most important books to be released in the "self-help" space, with over 25 million copies since its publication in 1989. Over the years, I have often found my ideas coming back around to closely reflect Covey's teachings and philosophy, and it's a book that I would probably do well to read more often! With no fluff, Covey suggests that there are timeless "principles" which we would do well as humans to align our "values" with - and then to live in alignment with those values. The 7 habits are both an exploration of those principles, and a practical guide on how to align ourselves with them. Highly recommended.
 
 - **The War of Art + The Artist's Journey, Pressfield** - Both books are short, with pretty simple core concepts that explore from many different angles, so that you come away feeling very inspired and much more likely to start applying them in your life. The War of Art looks at our "Daemon", our Resistance to it, and how to reframe and overcome this Resistance. It's a really important book if you want to ever get anything of value done, I think. The Artist's Journey, although it covers Resistance, looks more at Art's place in our creative and spiritual lives. Among other things, he maps Joseph Campbell's work on the hero's journey onto that of an artists, both on the macro level, and on the micro level, giving a practical walkthrough of what it looks like to make Good art.
 
 - **Power of Now + A New Earth, Tolle** - Although I think A New Earth is better, I think the Power of Now is a better introduction to "presence" and living with more conscious awareness. Both are classics that have changed millions of lives. If you think you're getting a bit stuck in "doing" and need to learn to chill out more into just "being", these are worth checking out.
-
-- **Awareness?, De Mello** - I've had this highly recommended several times, and is next in my "to listen to" pile. It seems to be very similar to Tolle's work.
 
 - **Letting Go, Hawkins** - This was also a strong contender for "If I could just give you one book"... I talk (ha) a lot about "living it" as opposed to "talking about it". This book might help you make that transition more. Ironically, it explains the "letting go technique" itself so briefly that I (and most others I've recommended it to) missed it on the first time through. The rest of the book is essentially artfully aligning your intentions with applying it. I'm not sure on the "be all and end all" nature he seems to hint at with this technique - but as a part of an integrated solution, I think it's extremely powerful (and applying it lies at the core of much of my own development in recent years, I believe).
 
@@ -65,13 +67,17 @@ So these books will give you a pretty good head start on most everything in life
 
 - **Stumbling on Happiness, Gilbert** - In this one, Dan Gilbert (another Harvard psychologist) explores a few of these cognitive biases in detail to explain why we're so bad at predicting what will make us happy. He concludes that we should trust ourselves less in this department, and ask people who have been through what it is that we're considering - how do they feel? This can save us years of wasted effort - it is said that the worst thing in life is not to miss out on what you want, but to get it and realize that it's not what you wanted. So, let's make an active effort to look at the happiest people in the world, and see how they live.
 
+- **The Happiness Hypothesis, Haidt** - 
+
 - **The 6 Pillars of Self-Esteem, Branden** - This is the seminal work on self-esteem, from what I've seen. I think the concept of self-esteem, and the way in which it's explored here, is extremely all-pervasive, permeating all aspects of life. Nathaniel Branden was Ayn Rand's lover for a while, and she considered him to be the living embodiment of her work (she based the character John Galt on him). So, if you'd like a fiction book or two with many examples of characters *living* these ideas, then you may enjoy Atlas Shrugged and/or The Fountainhead.
+
+- **Hell Yeah or No, Sivers** - Fantastic book - I love Derek's writing style. An intelligently organized collection of short essays on updating identity, making things happen, changing perspective, what's worth doing, fixing faulty thinking, saying no, and saying yes.
 
 - **The Vital Question, Lane** - Nick Lane asks the question "Why has life evolved the way it has?", and points to energy (availability, efficiency) as the answer.
 
 - **Why Information Grows?, Hidalgo** - Hidalgo explores how information "spins up" exponentially.
 
-- **Gödel, Escher, Bach?, Hofstadter** - Hofstadter draws on many disparate sources and fields to present his main idea: that consciousness, the feeling of being a self, is the result of many neurones firing and coordinating together (in ways we're not yet 100% clear on).
+- **Gödel, Escher, Bach? + I Am A Strange Loop?, Hofstadter** - Hofstadter draws on many disparate sources and fields to present his main idea: that consciousness, the feeling of being a self, is the result of many neurones firing and coordinating together (in ways we're not yet 100% clear on).
 
 - **The User Illusion, Nørretranders** - Nørretranders uses the idea of the "user illusion" from computers (the illusion that there is a desktop etc., rather than just a graphical interface layed on top of code and hardware) as an analogy to suggest that we are also living a user illusion - that perhaps there is no "self" in the way that we typically tend to think of it.
 
@@ -88,6 +94,12 @@ So these books will give you a pretty good head start on most everything in life
 - **The Obstacle is the Way?, Holiday** - I have only been through summaries of this (as I was already pretty familiar with Stoic philosophy), but apparently this is a great introduction, and I've seen nothing to suggest otherwise. The title alone is incredibly powerful. Another great one on Stoic philosophy - Meditations by Marcus Aurelius. That's a beautiful one.
 
 - **The Impersonal Life, Benner** - Let me warn you that this one is not for everyone. Originally published in 1914, this is an intensely "spiritual" book... It's pretty short, and it's written in a strange style, but it is essentially one constant pointer to who you are... and who you're not.
+
+- **Thinking in Bets, Duke** - 
+
+- **Sapiens, Harari** - 
+
+- **Lessons of History, Durant and Durant** - 
 
 - See some of the fiction recommendations too for this section... (below)
 
@@ -107,6 +119,10 @@ So these books will give you a pretty good head start on most everything in life
 
 - **Way of the Superior Man, Deida** - 
 
+- **The Power of Vulnerability? / TED Talks, Brown** - 
+
+- **Models, Manson** - 
+
 - **How to Win Friends & Influence People, Carnegie?** - 
 
 - **5 Love Languages?, Chapman** - 
@@ -120,23 +136,31 @@ So these books will give you a pretty good head start on most everything in life
 - **Mating in Captivity?, Perel** - 
 
 
-### Business
+### Business, Money, Politics
 
-- **Amazon's letters to shareholders** - 
+- **Anything You Want, Sivers** - 
 
-- **Good to Great, Collins** - 
+- **Your Money or Your Life, Dominguez / Tilford / Robin
+
+- **Good to Great + Turning Goals to Results, Collins** - 
 
 - **Principles, Dalio** - 
 
+- **Amazon's letters to shareholders, Bezos** - 
+
+- **Zero to One, Thiel** - 
+
+- **Lean Start-Up, Ries** - 
+
 - **Outsiders, Thorndike** - 
 
-- **7 Habits of Highly Effective People, Covey** - 
+- **E-myth revisited** - 
 
 - **The Personal MBA?, Kaufman** - 
 
-- **The Power of Vulnerability? / Work of Brené Brown** - 
-
 - **This is Marketing, Godin** -
+
+- **22 Immutable Laws of Marketing** - 
 
 - **Pitch Anything, Klaff** - 
 
@@ -146,9 +170,16 @@ So these books will give you a pretty good head start on most everything in life
 
 - **Blog of Paul Graham** - 
 
+- **Tribal Leadership, Logan & King** - 
+
 - **Culture Code, Coyle** - 
 
 - **The Essential Drucker** - 
+
+- **Democracy for Realists - Achen & Bartels** - 
+
+- **Coherence + 4D Leadership + Wicked and Wise + Crowdocracy, Watkins** - 
+
 
 
 
