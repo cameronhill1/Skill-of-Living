@@ -44,6 +44,10 @@ There's also a list of my favourite documentaries, films, series, anime, etc. at
 
 - **The New Toughness Training For Sports, Loehr** - I read this one when I was 16 or so, when looking for anything that could give me an edge in rugby. Really helped to drill in the importance of "flicking the switch" on and off with intensity, rather than drift somewhere in between. And the harder you switch it on, the harder you can switch it off... AND vice versa - the harder you switch off, the more you can switch it on when it's showtime.
 
+- **Waking Up, app by Sam Harris** - A fantastic introduction to actually PRACTICING the essence of all of the above. Use it as much as you can.
+
+- **Udemy, Coursera, EdX, Masterclass and other online course sites** - learn anything you want, online!
+
 So these books will give you a pretty good head start on most everything in life, I'd imagine... They kinda feed into everything else, from health to relationships to work and business, because they hit the essence... That being said, here are some additional recs...
 
 
@@ -62,6 +66,8 @@ So these books will give you a pretty good head start on most everything in life
 - **Psychology of Human Misjudgement, Munger** - [PDF](https://static1.squarespace.com/static/5ca3e714d74562b554c38604/t/5caa07a9971a182374badc19/1554646956708/Psychology+of+Human+Misjudgment.pdf){:target="_blank"}, [Speech](https://www.youtube.com/watch?v=pqzcCfUglws){:target="_blank"} - Charlie Munger is the business partner of Warren Buffet, and an incredibly intelligent guy. He considers this subject to be one of, if not *the* most important subjects to learn well - that of the psychology of human misjudgement, of learning the ways that we're most susceptible to be wrong. As he says, "All I want to know is where I'm going to die so I'll never go there." If we become aware of our weaknesses, we can start try to correct for them. This speech is a fantastic intro to some of the different cognitive biases common to all of us.
 
 - **Thinking, Fast and Slow, Kahneman** - ...And this book is the culmination of decades of work on the same subject by Nobel prize-winner Daniel Kahneman.
+
+- **Farnam Street** - A wonderful blog on cultivating wisdom and critical thinking. Check out their *awesome* core principles [here](https://fs.blog/principles/){:target="_blank"} and their *fantastic* collection of mental models [here](https://fs.blog/mental-models/){:target="_blank"}
 
 - **The Evolving Self?, Kegan** - I haven't read this one, but am otherwise familiar with Kegan's work, and this seems to be the best one to start with. Leading Harvard adult developmental psychologist Robert Kegan presents a wonderful model of evolution in humans that parallels nicely with those of many other schools of thought (eg. integral, spiral dynamics, Maslow's hierarchy of needs...). He suggests that we move from Opportunistic, to Socialized, to Self-authoring, and then to Self-transformative, and explores the limitations of the socialized self. Also great is his "Immunity to Change", which simply lays out what gets in the way of transforming for most people - namely, the fear of experiencing negative feelings such as shame and disappointment - and presents a simple method for navigating the rocky terrain.
 
@@ -101,6 +107,10 @@ So these books will give you a pretty good head start on most everything in life
 
 - **Lessons of History, Durant and Durant** - 
 
+- **JP's Hero's Journey** - an audio course on SoundsTrue from JP Sears.
+
+- **Work of Eric Thomas, Elliott Hulse, Brian Tracy, Tony Robbins, Earl Nightingale** - Inc. Direct Line
+
 - See some of the fiction recommendations too for this section... (below)
 
 
@@ -114,12 +124,17 @@ So these books will give you a pretty good head start on most everything in life
 
 - **Why We Sleep, Walker** - 
 
+- **Foundation Training (app)** - their membership site is possibly the best $15/month you'll ever spend. Profound for improving posture, healing yourself from back pain, and steadily repatterning trauma. A great way to start the morning. They have a 14-week periodized introductory course, put together by the master himself, Dr. Eric Goodman.
+
+
 
 ### Relationships
 
 - **Way of the Superior Man, Deida** - 
 
 - **The Power of Vulnerability? / TED Talks, Brown** - 
+
+- **Lying, Harris** - 
 
 - **Models, Manson** - 
 
@@ -140,7 +155,7 @@ So these books will give you a pretty good head start on most everything in life
 
 - **Anything You Want, Sivers** - 
 
-- **Your Money or Your Life, Dominguez / Tilford / Robin
+- **Your Money or Your Life, Dominguez / Tilford / Robin** - 
 
 - **Good to Great + Turning Goals to Results, Collins** - 
 
@@ -164,7 +179,7 @@ So these books will give you a pretty good head start on most everything in life
 
 - **Pitch Anything, Klaff** - 
 
-- **The Future is Faster Than You Think / Bold, Diamandis & Kotler** - 
+- **The Future is Faster Than You Think / Bold, Diamandis & Kotler** - ... Also check out Abundance Digital, Peter Diamandis' online community for entrepreneurs committed to growing and serving exponentially through the proper use of emerging technologies.
 
 - **Tools of Titans / Podcast, Ferriss** - 
 
@@ -214,38 +229,29 @@ So these books will give you a pretty good head start on most everything in life
 
 
 
-### Other misc. resources
+### Documentaries / Series
 
-- **Foundation Training (app)** - their membership site is possibly the best $15/month you'll ever spend. Profound for improving posture, healing yourself from back pain, and steadily repatterning trauma. A great way to start the morning. They have a 14-week periodized introductory course, put together by the master himself, Dr. Eric Goodman.
+Human (YT series), Trip of Compassion, Jiro Dreams of Sushi, The Dawn Wall, Free Solo, Rick and Morty (hehe), Avatar: The Last Airbender, The Defiant Ones, Quincy, Rolling Thunder Revue, I Am Not Your Guru, George Harrison: Living in The Material World, Songwriter (Ed Sheeran)
 
-- **Udemy, Coursera, EdX, Masterclass and other online course sites** - learn anything you want, online!
 
-- **Farnam Street** - A wonderful blog on cultivating wisdom and critical thinking. Check out their *awesome* core principles [here](https://fs.blog/principles/){:target="_blank"} and their *fantastic* collection of mental models [here](https://fs.blog/mental-models/){:target="_blank"}
+### Films
 
-- **JP's Hero's Journey**, an audio course on SoundsTrue from JP Sears.
+It's a Wonderful Life, Schindler's List, Saving Private Ryan, 50 Shades, Kung Fu Panda, Lion King, LOTR, The Last Samurai, Gandhi, Braveheart, Titanic, Zorba the Greek, Pay It Forward, Into The Wild, Forrest Gump, Star Wars, Her, Green Book, Shawshank Redemption, Bohemian Rhapsody, The Green Mile, The Light Between Oceans, The Best of Me, Theory of Everything
 
-- **Abundance Digital** - Peter Diamandis' online program/community for exponential entrepreneurs
 
-- **Work of Eric Thomas
+### Anime
 
-- **Tony Robbins, work of**
+Classic Gibhli films, Your Name (Kimi No Na Wa), Weathering With You (Tenki No Ko), Your Lie in April (Watashi No Uso), A Silent Voice (Koe No Katachi), Lost Song (Rosuto Songu), Wolf Children (Ōkami Kodomo no Ame to Yuki), OG Pokémon
 
-- **Earl Nightingale, The Direct Line (audio)" - 
 
-- **Work of Elliott Hulse, Eric Thomas...
+### Music
 
-- **Documentaries / Series:** Human (YT series), Trip of Compassion, Jiro Dreams of Sushi, The Dawn Wall, Free Solo, Rick and Morty (hehe), Avatar: The Last Airbender, The Defiant Ones, Quincy, Rolling Thunder Revue, I Am Not Your Guru, George Harrison: Living in The Material World, Songwriter (Ed Sheeran)
-
-- **Films:** It's a Wonderful Life, Schindler's List, Saving Private Ryan, 50 Shades, Kung Fu Panda, Lion King, LOTR, The Last Samurai, Gandhi, Braveheart, Titanic, Zorba the Greek, Pay It Forward, Into The Wild, Forrest Gump, Star Wars, Her, Green Book, Shawshank Redemption, Bohemian Rhapsody, The Green Mile, The Light Between Oceans, The Best of Me, Theory of Everything
-
-- **Anime:** Classic Gibhli films, Your Name (Kimi No Na Wa), Weathering With You (Tenki No Ko), Your Lie in April (Watashi No Uso), A Silent Voice (Koe No Katachi), Lost Song (Rosuto Songu), Wolf Children (Ōkami Kodomo no Ame to Yuki), OG Pokémon
-
-- **Music:** - This is a tough one man. I listen to a lot of good music, from pretty much all genres and time periods - after all, Good music is Good music. Most of us nowadays stick pretty closely to a couple genres, and usually only the most recent stuff... I'd just say, try exploring a bit more. Check out a Top 100 albums list from a reputable source like Mojo or Rolling Stones magazine, and see if there's anything there that grabs your fancy. And so too with more current artists - there are a lot of incredible indie and smaller artists out there that are on par with or surpassing the top dogs, but just don't have the recognition. That being said, here are a few [favourites](https://open.spotify.com/playlist/5AUo7wHNVR0qSfGr3akeEI?si=YRxr2XoMTDqtN6xCy4XG1w){:target="_blank"} (Spotify).
+This is a tough one man. I listen to a lot of good music, from pretty much all genres and time periods - after all, Good music is Good music. Most of us nowadays stick pretty closely to a couple genres, and usually only the most recent stuff... I'd just say, try exploring a bit more. Check out a Top 100 albums list from a reputable source like Mojo or Rolling Stones magazine, and see if there's anything there that grabs your fancy. And so too with more current artists - there are a lot of incredible indie and smaller artists out there that are on par with or surpassing the top dogs, but just don't have the recognition. That being said, here are a few [favourites](https://open.spotify.com/playlist/5AUo7wHNVR0qSfGr3akeEI?si=YRxr2XoMTDqtN6xCy4XG1w){:target="_blank"} (Spotify).
 
 
 
 
-NB - Add affiliate links where possible, and put a little disclaimer at the top, saying that all proceeds will go to organic food for my belly / supporting the site.
+NB - Add affiliate links where possible, and put a little disclaimer at the top, saying that all proceeds will go to organic food for my belly / supporting and sharing the site.
 
 
 
