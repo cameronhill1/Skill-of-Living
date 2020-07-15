@@ -162,6 +162,7 @@ What gets in the way? Confusion, yes... born of being asleep and being ignorant.
 
 
 (Opportunistic - pain vs. pleasure, Socialized - shame vs. pride, Self-authoring** - self-betrayal vs. self-esteem, Self-transformative** - unnecessary vs. unobstructed & connected self-expression)
+
 (Archaic, Magic, Magic-Mythic, Mythic-Literal, Rational, Pluralistic, Integral, Unity...)
 
 (I believe there IS a difference, and an important one at that, between the emotions of #1 and the intuition of #4.)
