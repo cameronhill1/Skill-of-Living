@@ -69,11 +69,13 @@ So these books will give you a pretty good head start on most everything in life
 
 - **Farnam Street** - A wonderful blog on cultivating wisdom and critical thinking. Check out their *awesome* core principles [here](https://fs.blog/principles/){:target="_blank"} and their *fantastic* collection of mental models [here](https://fs.blog/mental-models/){:target="_blank"}
 
+- **Thinking in Bets?, Duke** - Haven't read this one (yet), though she covers an important bias; causal reductionism. Our brains tend to simplify things to "if I make a good decision, something good will happen" and "if something goes wrong following my decision, it must have been a good decision." But this is not the case - there are many factors at play, including seemingly random chance, and so it's possible to get good results from bad decisions, and vice versa. Understanding this helps us to move into probabilistic thinking, which is useful both for learning from past decisions, and becoming comfortable with the inevitable uncertainty and tension of making present decisions.
+
 - **The Evolving Self?, Kegan** - I haven't read this one, but am otherwise familiar with Kegan's work, and this seems to be the best one to start with. Leading Harvard adult developmental psychologist Robert Kegan presents a wonderful model of evolution in humans that parallels nicely with those of many other schools of thought (eg. integral, spiral dynamics, Maslow's hierarchy of needs...). He suggests that we move from Opportunistic, to Socialized, to Self-authoring, and then to Self-transformative, and explores the limitations of the socialized self. Also great is his "Immunity to Change", which simply lays out what gets in the way of transforming for most people - namely, the fear of experiencing negative feelings such as shame and disappointment - and presents a simple method for navigating the rocky terrain.
 
 - **Stumbling on Happiness, Gilbert** - In this one, Dan Gilbert (another Harvard psychologist) explores a few of these cognitive biases in detail to explain why we're so bad at predicting what will make us happy. He concludes that we should trust ourselves less in this department, and ask people who have been through what it is that we're considering - how do they feel? This can save us years of wasted effort - it is said that the worst thing in life is not to miss out on what you want, but to get it and realize that it's not what you wanted. So, let's make an active effort to look at the happiest people in the world, and see how they live.
 
-- **The Happiness Hypothesis, Haidt** - 
+- **The Happiness Hypothesis, Haidt** - So how do the happiest people in the world live? Turns out we've been studying happiness and suffering for thousands of years. Jonathan Haidt reviews the ancient wisdom from our great traditions and philosophers, and couples the findings with more modern research to produce his "hypothesis on happiness".
 
 - **The 6 Pillars of Self-Esteem, Branden** - This is the seminal work on self-esteem, from what I've seen. I think the concept of self-esteem, and the way in which it's explored here, is extremely all-pervasive, permeating all aspects of life. Nathaniel Branden was Ayn Rand's lover for a while, and she considered him to be the living embodiment of her work (she based the character John Galt on him). So, if you'd like a fiction book or two with many examples of characters *living* these ideas, then you may enjoy Atlas Shrugged and/or The Fountainhead.
 
@@ -101,30 +103,28 @@ So these books will give you a pretty good head start on most everything in life
 
 - **The Impersonal Life, Benner** - Let me warn you that this one is not for everyone. Originally published in 1914, this is an intensely "spiritual" book... It's pretty short, and it's written in a strange style, but it is essentially one constant pointer to who you are... and who you're not.
 
-- **Thinking in Bets, Duke** - 
+- **Sapiens, Harari** - Everyone raves about this one. Yuval Noah Harari follows the path of evolution of our species over the past couple hundred thousand years, and shows that perhaps the key driver for human evolution was the development of complex language that unlocked the ability to weave narratives that, in turn, allowed us to cooperate extremely effectively in progressively larger and larger groups. He goes on to give examples of these narratives (like money), and shows us that they can be incredibly useful, but also harmful if we don't choose the right narratives and we don't do it consciously. Incidentally, Yuval regularly knocks out 30-100 day meditation retreats, and has done 2 hours of vipassana pretty much every day since he was 19 or so. You can tell in his writing - it's super clear, sharp, exquisite.
 
-- **Sapiens, Harari** - 
+- **Lessons of History, Durant and Durant** - Will & Ariel Durant co-wrote many books on human history of all kinds. I think you'll get a lot of history from other books here, but if you want one explicitly on history, this is my recommendation - a little 100-150 page book that pulls the lessons together beautifully.
 
-- **Lessons of History, Durant and Durant** - 
+- **JP's Hero's Journey** - an audio course on SoundsTrue from JP Sears. I think this is really well put together, and found it super beneficial to go through. Great value for money.
 
-- **JP's Hero's Journey** - an audio course on SoundsTrue from JP Sears.
-
-- **Work of Eric Thomas, Elliott Hulse, Brian Tracy, Tony Robbins, Earl Nightingale** - Inc. Direct Line
+- **Work of Eric Thomas, Elliott Hulse, Brian Tracy, Tony Robbins, Earl Nightingale, Owen Cook** - I have to give these guys a shout out. Although I'm not including their books here, they all played an important role in my formative years. Eric is a motivational speaker (sparked something in me aged 13 or so), Elliott is a weightlifting spiritualist / philosopher, Brian is a classic name in personal development, Tony's pretty much a household name in the same area, I hear Earl almost founded modern personal development as we know it (his Direct Line series was incredibly powerful for me when I was 16/17), and Owen is a dating / social dynamics / personal development teacher (with some great long-form video content on YouTube). If you feel called to explore any of their work in more detail, I'd encourage you to do so.
 
 - See some of the fiction recommendations too for this section... (below)
 
 
 ### Health
 
-- **The Immunity Code, Joel Greene** - 
+- **The Immunity Code, Greene** - I've read many books and articles on health and nutrition over the years - and this has been the most transformative for me. A relatively new book (released 6 months ago at the time of writing this) and originally titled "Peak Human", Joel Greene attempts to establish a new paradigm in the health and weight loss space. It's heavy on science, but you'll come away with a list of actionable steps and "hacks" that you can use to rapidly level up to the highest echelons of *real* human health. There's a massive focus on gut health and sleep here, and as someone who has struggled *a lot* with both of these over the years, I can vouch for it from experience.
 
-- **How To Eat, Move, and Be Healthy, Chek** - 
+- **How To Eat, Move, and Be Healthy, Chek** - I (and many others) consider Paul Chek to be pretty much the forefront of health and rehabilitation when viewed from a holistic perspective (as it should be). This is his gift to the world.
 
-- **Boundless, Greenfield** - 
+- **Boundless, Greenfield** - Another HEAVY book (it's like an encyclopedia), this one is very exhaustive and thorough, and is the result of a couple decades of research and experimentation by the renowned biohacker Ben Greenfield. Super impressive and an incredibly useful reference guide.
 
-- **Why We Sleep, Walker** - 
+- **Why We Sleep, Walker** - So apparently he exaggerated with some of the research in here, but it's still a great book. He shows us how integral sleep is to performing and feeling well, and then shows us what usually gets in the way of good sleep, and how to fix it.
 
-- **Foundation Training (app)** - their membership site is possibly the best $15/month you'll ever spend. Profound for improving posture, healing yourself from back pain, and steadily repatterning trauma. A great way to start the morning. They have a 14-week periodized introductory course, put together by the master himself, Dr. Eric Goodman.
+- **Foundation Training (app)** - Their membership site could well be the best $15/month you'll ever spend. Profound for improving posture, healing yourself from back pain, and steadily repatterning trauma. A great way to start the morning. They have a 14-week periodized introductory course, put together by the master himself, Dr. Eric Goodman... and it's great fun!
 
 
 
