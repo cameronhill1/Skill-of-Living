@@ -157,6 +157,8 @@ So these books will give you a pretty good head start on most everything in life
 
 - **Your Money or Your Life, Dominguez / Tilford / Robin** - 
 
+- [**How To Get Hired, Sivers (Article)**](https://sivers.org/gethired){:target=_"blank"} - If you decide you want to work with an existing company rather than start your own, focus on being phenomenal and actually having great skills, and then use this article.
+
 - **Good to Great + Turning Goals to Results, Collins** - 
 
 - **Principles, Dalio** - 
@@ -231,7 +233,7 @@ So these books will give you a pretty good head start on most everything in life
 
 ### Documentaries / Series
 
-Human (YT series), Trip of Compassion, Jiro Dreams of Sushi, The Dawn Wall, Free Solo, Rick and Morty (hehe), Avatar: The Last Airbender, The Defiant Ones, Quincy, Rolling Thunder Revue, I Am Not Your Guru, George Harrison: Living in The Material World, Songwriter (Ed Sheeran)
+Waiting For Lightning (Danny Way), 199 Lives: Life As Travis Pastrana, Human, Trip of Compassion, Jiro Dreams of Sushi, The Dawn Wall, Free Solo, Rick and Morty (hehe), Avatar: The Last Airbender, The Defiant Ones, Quincy (Jones), Rolling Thunder Revue (Bob Dylan), I Am Not Your Guru (Tony Robbins), George Harrison: Living in The Material World, Songwriter (Ed Sheeran)
 
 
 ### Films
