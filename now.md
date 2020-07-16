@@ -5,6 +5,39 @@ Kinda like a public journal, here you'll find: what's on my heart and mind, idea
 
 Just because something is written here, it does not mean that it is true or valuable, or even that I believe it to be so. It's purely to share what's going on with me right now, in case you're wondering. I find it gives meaning to my struggles, and multiplicity to my celebrations.
 ```
+## 3.30AM July 16th 2020
+
+I've been clarifying the structure and format of this site recently.
+
+Also been building out the recs section too. Found myself adding more and more resources, while trying to refine it.
+
+Noticed that I get quite wordy with my writing sometimes. Unnecessarily so. Let's see how that goes.
+
+Been feeling a subtle shift take place... I may also be imagining things due to a continued loss of sleep, but...
+
+I became quite obvious to me that a lot of the "demonstration of the teaching" reason for music and singing is actually just ego and  "look at me" mindset, and rationalization for egoic self-aggrandizement.
+
+Like, what do I have to teach? I teach that I have nothing to teach, but I have some ideas - take them or leave them. Yet I'm focusing on "demonstrating" like I think I'm right and have something to sell.
+
+Is it not more about just living it, and naturally sharing? Who knows...
+
+This has coincided with a shift with music. Following the couple days when I went more "all-in", I found that I was feeling naturally more drawn towards coding, coaching, and entrepreneurship, right now.
+
+I still love singing, and really enjoy making music & writing songs. I could definitely imagine myself doing something with this in the future.
+
+And I've also realized how early I am in the music journey - just 15 months! No rush to "do something with it"... The whole point is the enjoyment. This stuff takes time, and a lot of it will be helped and the essence developed doing the other stuff (eg. ear from resilient presence, songwriting from coaching, more lessons from entrepreneurship)... 
+
+So I'm thinking of cutting down my singing lessons, perhaps to 1/month. Practice time will also most likely not be the 2-3+ hours a day it has been. Let's see how it goes.
+
+Yeah, I'm feeling more and more aligned with Skill of Health too.
+
+Talking of the skill of health, I need to practice sleeping more. Just coming up to 4am. Last night was 5am bed. Getting kinda trashed. Quality is dropping. Can still get present, but things take longer. Back to quality.
+
+Also, as a pre-bed sidenote, been feeling super horny lately, couped up in lockdown. Having occasional weird thoughts and super sexual dreams. Maybe I'll head abroad... Or just get out the house a bit aha.
+
+Good night ;)
+
+
 ## 1AM July 11th 2020
 
 The past few days, I've been consistent with this site, doing at least an hour or two, sometimes more, in the evenings.
