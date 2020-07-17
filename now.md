@@ -5,6 +5,25 @@ Kinda like a public journal, here you'll find: what's on my heart and mind, idea
 
 Just because something is written here, it does not mean that it is true or valuable, or even that I believe it to be so. It's purely to share what's going on with me right now, in case you're wondering. I find it gives meaning to my struggles, and multiplicity to my celebrations.
 ```
+## July 17th 2020
+
+Ideas I'm playing around with...
+
+- Money is a narrative (as Yuval Noah Harari points out nicely)... But so is TIME :O
+
+- The silent questions of ego (watch the space after asking these these when thoughts are all over the place):
+
+"Who do I need to be to get approval?"
+
+"Who can I NOT be to avoid shame / rejection?"
+
+- Starting to play with a dynamic session plan, based on how you're feeling / initial HRV.
+
+- We project our anger and hatred and annoyance outside of us because we don’t want to take responsibility for the fact that we’re hating ourselves now. (And / or we just haven’t seen that yet). We think we need XYZ, but it’s those conditions that are offensive to our current self.
+
+- Was super angry (and horny) this morning. Resenting the noisiness and distractions. Then I went through my singing practice, and man, it was such a release! Brought me back to the present. It seems that it's still an important part of my days... Perhaps the shift that I've been feeling lately is just that I'm not wanting to go all in on it right now, and I'm playing a bit more guitar.
+
+
 ## 3.30AM July 16th 2020
 
 I've been clarifying the structure and format of this site recently.
