@@ -12,6 +12,8 @@ A general note - there are a couple books directly about the ways of society (ec
 
 There's also a list of my favourite documentaries, films, series, anime, etc. at the bottom too. That's less about being Useful and more about being Beautiful / Fun :) - though I've found the line between the two to be quite blurry all throughout this page. I hope you find this to be true for you, as well. Happy living!
 
+A final note: if you want my "top 10" or you're wondering where to start, here you go (see individual listings for descriptions): Awareness, The Art of Learning (and [this](https://www.youtube.com/watch?v=4r6gr7uytQA){:target="_blank"} interview), The Evolving Self, the Waking Up app, The Immunity Code, The Rise of Superman (and/or this [article](https://www.entrepreneur.com/article/243047){:target="_blank"}, The Artist's Journey, Your Money or Your Life.
+
 
 
 ### Mindset/Learning (Happiness & Effectiveness)
