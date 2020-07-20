@@ -48,7 +48,7 @@ A final note: if you want my "top 10" or you're wondering where to start, here y
 
 - **Waking Up, app by Sam Harris** - A fantastic introduction to actually PRACTICING the essence of all of the above. Use it as much as you can.
 
-- **Udemy, Coursera, EdX, Masterclass and other online course sites** - learn anything you want, online!
+- **Udemy, Coursera, EdX, Masterclass and other online course sites** - learn anything you want, online! And [here's](https://www.youtube.com/watch?v=5MgBikgcWnY){:target="_blank"} how to do it fast.
 
 So these books will give you a pretty good head start on most everything in life, I'd imagine... They kinda feed into everything else, from health to relationships to work and business, because they hit the essence... That being said, here are some additional recs...
 
@@ -121,6 +121,10 @@ So these books will give you a pretty good head start on most everything in life
 - **The Immunity Code, Greene** - I've read many books and articles on health and nutrition over the years - and this has been the most transformative for me. A relatively new book (released 6 months ago at the time of writing this) and originally titled "Peak Human", Joel Greene attempts to establish a new paradigm in the health and weight loss space. It's heavy on science, but you'll come away with a list of actionable steps and "hacks" that you can use to rapidly level up to the highest echelons of *real* human health. There's a massive focus on gut health and sleep here, and as someone who has struggled *a lot* with both of these over the years, I can vouch for it from experience.
 
 - **How To Eat, Move, and Be Healthy, Chek** - I (and many others) consider Paul Chek to be pretty much the forefront of health and rehabilitation when viewed from a holistic perspective (as it should be). This is his gift to the world.
+
+- **What Doesn't Kill Us, Carney and Hof** - WAKE UP! We've become incredibly soft as a species. Scott Carney looks at the power of the cold, the breath, and extreme altitude with Wim Hof to show us we've lost our evolutionary "edge" - and how to get it back.
+
+-**XPT (app)** - From Laird Hamilton and Gabby Reece, XPT (eXtreme Performance Training) is based on the principles of "Breathe, Move, Recover", and their app has some fantastic breath training work. Highly recommended as a companion for the above book.
 
 - **Boundless, Greenfield** - Another HEAVY book (it's like an encyclopedia), this one is very exhaustive and thorough, and is the result of a couple decades of research and experimentation by the renowned biohacker Ben Greenfield. Super impressive and an incredibly useful reference guide.
 
@@ -235,7 +239,7 @@ So these books will give you a pretty good head start on most everything in life
 
 ### Documentaries / Series
 
-Waiting For Lightning (Danny Way), 199 Lives: Life As Travis Pastrana, Human, Trip of Compassion, Jiro Dreams of Sushi, The Dawn Wall, Free Solo, Rick and Morty (hehe), Avatar: The Last Airbender, The Defiant Ones, Quincy (Jones), Rolling Thunder Revue (Bob Dylan), I Am Not Your Guru (Tony Robbins), George Harrison: Living in The Material World, Songwriter (Ed Sheeran)
+Waiting For Lightning (Danny Way), Take Every Wave: The Life of Laird Hamilton, 199 Lives: Life As Travis Pastrana, Human, Trip of Compassion, Jiro Dreams of Sushi, The Dawn Wall, Free Solo, The Defiant Ones, Quincy (Jones), Rolling Thunder Revue (Bob Dylan), I Am Not Your Guru (Tony Robbins), George Harrison: Living in The Material World, Songwriter (Ed Sheeran), Rick and Morty (hehe), Avatar: The Last Airbender
 
 
 ### Films
