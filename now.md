@@ -5,6 +5,43 @@ Kinda like a public journal, here you'll find: what's on my heart and mind, idea
 
 Just because something is written here, it does not mean that it is true or valuable, or even that I believe it to be so. It's purely to share what's going on with me right now, in case you're wondering. I find it gives meaning to my struggles, and multiplicity to my celebrations.
 ```
+## July 21st 2020
+
+Been feeling more and more angry and horny over the past few days, since the last entry. This is a weird one! Haha.
+
+Part of it could be the sleep. It hasn't been this poor for a while.
+
+I also think a lot of this (the anger in particular) has just been suppressed / repressed - it's been here, but now I'm bringing it up. I've been going pretty ham on the breath work lately, and this has been great for feelings of aliveness, but have lost some of my apparent level-headedness.
+
+Also, I've started skateboarding again, so feeling the tensions of pushing through fears there, and I've been competing a lot more (just messing around with friends... tennis, badminton etc.), which I feel have all contributed to these recent developments.
+
+Combine this with a relative lack of meditation / quiet time, and you have lots of powerful, primal emotions coming up, with a diminishing ability to let them go.
+
+There are other misc. concerns at the moment, but these are relatively minor and more sympomatic, I think, than causative.
+
+Solution? Well, I suppose there are a few things that would help (like a living situation that offers more solitude), but primarily, I'm going to focus on getting back into the practices that I know work for me.
+
+Everyone has their rationalizations and avoidance mechanisms for simply refusing to sit down and face the uncomfortable emotions - mine is usually some form of intellectualization. I become "the teacher", or the "life-hacker", and rather than just do a simple practice that has worked for me before, I go down a rabbit hole of drafting up and tweaking "the ideal meditation", or plan a schedule... This tweaking then goes on indefinitely, ha! I still practice, but not as deeply as I could / want to.
+
+Solution for this? Choose a foundational practice or two - core habits that you're clear on and you've benefitted from before. Then stick to that (accountability buddy and habit tracking can help), and anything else (research, testing, tweaking, etc.) is on top of that, until it's finalized, clear, and we're confident that it could be an improvement and is worth a test.
+
+It's like ads, I suppose - when you come up with new hypotheses and test them, you don't shut off winning, existing ad sets - then your ROI is gone! You keep them going, introduce the new tests as adjusted duplicated, and only when they've proven themselves as giving a significantly higher return, do you consider allocating more resources towards them.
+
+There's a metaphor here somewhere... You miss 100% of the shots you don't take -> You suffer for 100% of the practices you don't do? Haha...
+
+Or, like money sat in the bank, our presence and joy and resilience don't grow just from thinking about it... They've got to be in the game... :/
+
+Or, you can read all the T-nation articles / meditation books you want, but it's more about the intensity with which you train. Closer...
+
+Or, training your mind is like investing. You can analyze all you want, but you only get a return through pulling the trigger, patience, and risking being wrong for the reward of being right.
+
+Hmm, something's just come to me I heard from JP Sears last year - Be willing to disrespect the how. Love that. There is a lot of benefit to being strategic with practice... But not at the expense of practice itself. We learn through doing and course-correcting. Jump in and figure it out intuitively.
+
+Very closely related to this intellectualization is perfectionism. Another flavour of it to be aware of.
+
+Anyways, I'm going to go code and then practice. See ya
+
+
 ## July 17th 2020
 
 Ideas I'm playing around with...
