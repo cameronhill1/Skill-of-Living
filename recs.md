@@ -2,7 +2,7 @@
 
 ### Music
 
-Here are a few [favourites](https://open.spotify.com/playlist/03UehSS3kHEnGGRPXWfl4T?si=gv4FsfEnRbe8As1ryciF6w){:target="_blank"} (Spotify).
+[=> Here are a few favourites](https://open.spotify.com/playlist/03UehSS3kHEnGGRPXWfl4T?si=gv4FsfEnRbe8As1ryciF6w){:target="_blank"} (Spotify).
 
 ### Books and other
 
