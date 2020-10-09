@@ -255,7 +255,7 @@ It's a Wonderful Life, Schindler's List, Saving Private Ryan, 50 Shades, Kung Fu
 
 ### Anime
 
-Classic Gibhli films, Your Name (Kimi No Na Wa), Weathering With You (Tenki No Ko), Your Lie in April (Watashi No Uso), A Silent Voice (Koe No Katachi), Lost Song (Rosuto Songu), Wolf Children (Ōkami Kodomo no Ame to Yuki), OG Pokémon
+Classic Gibhli films, Your Name (Kimi No Na Wa), I Want To Eat Your Pancreas (Kimi no Suizō o Tabetai), Weathering With You (Tenki No Ko), Your Lie in April (Watashi No Uso), A Silent Voice (Koe No Katachi), Lost Song (Rosuto Songu), Wolf Children (Ōkami Kodomo no Ame to Yuki), OG Pokémon
 
 
 
