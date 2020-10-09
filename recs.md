@@ -1,5 +1,11 @@
 ## Favourites / Recs
 
+### Music
+
+Here are a few [favourites](https://open.spotify.com/playlist/03UehSS3kHEnGGRPXWfl4T?si=gv4FsfEnRbe8As1ryciF6w){:target="_blank"} (Spotify).
+
+### Books and other
+
 Here's a list of books, films, and other resources that have been particularly important for me, or that I think might be particularly useful and / or enjoyable for you.
 
 Even if I don't agree with everything in all of them (and in some cases I haven't even read the full book), I've tried to select resources that I feel, together, constitute some of my current views and philosophy. As always, this will most likely change, and so I will probably update this list as time goes on.
@@ -252,14 +258,8 @@ It's a Wonderful Life, Schindler's List, Saving Private Ryan, 50 Shades, Kung Fu
 Classic Gibhli films, Your Name (Kimi No Na Wa), Weathering With You (Tenki No Ko), Your Lie in April (Watashi No Uso), A Silent Voice (Koe No Katachi), Lost Song (Rosuto Songu), Wolf Children (Ōkami Kodomo no Ame to Yuki), OG Pokémon
 
 
-### Music
-
-This is a tough one man. I listen to a lot of good music, from pretty much all genres and time periods - after all, Good music is Good music. Most of us nowadays stick pretty closely to a couple genres, and usually only the most recent stuff... I'd just say, try exploring a bit more. Check out a Top 100 albums list from a reputable source like Mojo or Rolling Stones magazine, and see if there's anything there that grabs your fancy. And so too with more current artists - there are a lot of incredible indie and smaller artists out there that are on par with or surpassing the top dogs, but just don't have the recognition. That being said, here are a few [favourites](https://open.spotify.com/playlist/5AUo7wHNVR0qSfGr3akeEI?si=YRxr2XoMTDqtN6xCy4XG1w){:target="_blank"} (Spotify).
 
 
-
-
-NB - Add affiliate links where possible, and put a little disclaimer at the top, saying that all proceeds will go to organic food for my belly / supporting and sharing the site.
 
 
 
